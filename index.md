@@ -4,13 +4,9 @@ title: Nate Upham, Home
 ---
 # **Nathan S. Upham**
 
-## <span style="color:Goldenrod;">Ecological diversification and biogeography in mammals</span>
-
 ## <span style="color:DarkGoldenrod;">Ecological diversification and biogeography in mammals</span>
 
 ## <span style="color:Chocolate;">Ecological diversification and biogeography in mammals</span>
-
-## <span style="color:SaddleBrown;">Ecological diversification and biogeography in mammals</span>
 
 ## <span style="color:Sienna;">Ecological diversification and biogeography in mammals</span>
 
