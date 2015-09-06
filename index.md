@@ -2,7 +2,7 @@
 layout: default
 title: Nate Upham, Home
 ---
-# **Nathan S. Upham**
+# <span style="color:Chocolate;">Nathan S. Upham</span>
 
 ## <span style="color:Chocolate;">Ecological diversification and biogeography in mammals</span>
 
