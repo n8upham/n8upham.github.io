@@ -2,6 +2,7 @@
 layout: default
 title: Nate Upham, Home
 ---
+<h1>{{ page.title }}</h1>
   <div class="bigspacer"></div>
 <div class="row">
   <div class="col-md-3 col-md-push-9">
