@@ -2,6 +2,7 @@
 layout: default
 title: Nate Upham, Home
 ---
+  <div class="bigspacer"></div>
 <div class="row">
   <div class="col-md-3 col-md-push-9">
     <img class="profile" src="http://www.gravatar.com/avatar/{{ site.author.gravatar }}?s=256">
@@ -19,6 +20,21 @@ title: Nate Upham, Home
     <p><a href="/misc/Tamas_Nagy_604EA988.asc"><i class="fa fa-lock fa-fw"></i>Tamas_Nagy_604EA988.asc</a></p>
     <div class="bigspacer"></div>
   </div>
+  <div class="col-md-8 col-md-offset-1 col-md-pull-4">
+    
+    <p>Hi, my name is <b>Tamas Nagy</b>. I'm an undergraduate student dual-majoring in Biochemistry and Applied Mathematics at the University of Kentucky. I'm interested in applying wet and dry lab techniques to study biological processes from the system-level. I enjoy thinking and I have very wide-ranging interests. I keep a collection of published works under the <a href="/projects/">Projects</a> tab and <a href="/blog/">blog</a> my thoughts. I'm a budding open-source and open-science advocate. </p>
+    <p>In my spare time, I like <a href="{{ site.author.500px }}">photography</a>, traveling, and food. I love mountaineering, kayaking, and other outdoorsy things and I eventually want to learn to play the guitar.</p>
+    <h2>Meta</h2>
+    <p>This site is powered by open source technology, including:</p>
+    <ul>
+      <li><a href="http://jekyllrb.com">Jekyll</a></li>
+      <li><a href="http://getbootstrap.com">Bootstrap</a></li>
+      <li><a href="http://fontawesome.io">Font Awesome</a></li>
+      <li><a href="http://johnmacfarlane.net/pandoc/">Pandoc</a></li>
+    </ul>
+    <p>The site is built using Jekyll and Pandoc, and the code is hosted on Github for version control. The generated static files are then pushed to GreenQloud's 100% renewable-energy-powered StorageQloud service using <code>s3cmd</code>.</p>
+  </div>
+</div>
 
 
 # <span style="color:Chocolate;">Nathan S. Upham</span>
