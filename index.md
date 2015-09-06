@@ -4,7 +4,7 @@ title: Nate Upham, Home
 ---
 # <span style="color:Chocolate;">Nathan S. Upham</span>
 
-## <span style="color:Chocolate;">Ecological diversification and biogeography in mammals</span>
+<h2><span style="color:Chocolate;">Ecological diversification and biogeography in mammals</span></h2>
 
 ## I am a post-doc at Yale University in the lab of [Walter Jetz](http://jetzlab.yale.edu/) as part of the NSF-sponsored [VertLife Terrestrial project](http://vertlife.org/).
 
