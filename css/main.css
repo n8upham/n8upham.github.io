@@ -27,7 +27,9 @@ h2 {
     font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
-
+h3 {
+    font-size: 1em;
+}
 p {
     font-size: 1.5em;
     line-height: 1.4em;
