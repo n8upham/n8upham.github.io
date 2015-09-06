@@ -2,6 +2,25 @@
 layout: default
 title: Nate Upham, Home
 ---
+<div class="row">
+  <div class="col-md-3 col-md-push-9">
+    <img class="profile" src="http://www.gravatar.com/avatar/{{ site.author.gravatar }}?s=256">
+    <h5>CV</h5>
+    <p><a href="/pdfs/tamasnagy-cv.pdf"><i class="fa fa-file-text fa-fw"></i>tamasnagy-cv.pdf</a></p>
+    <h5>Email</h5>
+    <p><a href="mailto:{{ site.author.email }}"><i class="fa fa-envelope fa-fw"></i>{{ site.author.email }}</a></p>
+    <h5>Twitter</h5>
+    <p><a href="{{ site.author.twitter }}"><i class="fa fa-twitter fa-fw"></i>@{{ site.author.twitter | remove:'http://twitter.com/'}}</a></p>
+    <h5>Github</h5>
+    <p><a href="{{ site.author.github }}"><i class="fa fa-github fa-fw"></i>{{ site.author.github | remove:'http://github.com/'}}</a></p>
+    <h5>Google Scholar</h5>
+    <p><a href="{{ site.author.gscholar }}"><i class="fa fa-google-plus fa-fw"></i>Tamas L Nagy</a></p>
+    <h5>PGP Public Key</h5>
+    <p><a href="/misc/Tamas_Nagy_604EA988.asc"><i class="fa fa-lock fa-fw"></i>Tamas_Nagy_604EA988.asc</a></p>
+    <div class="bigspacer"></div>
+  </div>
+
+
 # <span style="color:Chocolate;">Nathan S. Upham</span>
 
 ##<span style="color:Chocolate;">Ecological diversification and biogeography in mammals</span>
