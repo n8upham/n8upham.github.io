@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: pubs
 title: Nate Upham, Pubs
 ---
 
