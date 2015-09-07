@@ -15,7 +15,7 @@ title: Nate Upham, Home
 #### Contact: [nathan.upham@yale.edu](mailto:nathan.upham@yale.edu)
 
 <dl>
-  <h4><dt>Address:</dt><h4>
+  <h4><dt>Mailing address:</dt><h4>
     <h5><dd>Dept. of Ecology and Evolutionary Biology</dd>
     <dd>Yale University</dd>
     <dd>165 Prospect St., OML 122</dd>
