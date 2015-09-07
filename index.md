@@ -12,12 +12,11 @@ title: Nate Upham, Home
 
 >Using approaches from molecular phylogenetics, biogeography, paleontology, and population genetics, I ask questions that aim to uncover core dynamics of the eco-evolutionary process.  Through outreach and broad communication of our findings, I seek to inform and encourage biodiversity conservation in the tropical and arid ecosystems where I work.
 
-### Contact: 
->[nathan.upham@yale.edu](mailto:nathan.upham@yale.edu)
+#### Contact: [nathan.upham@yale.edu](mailto:nathan.upham@yale.edu)
 
-### Address:
->Dept. of Ecology and Evolutionary Biology
-Yale University
-165 Prospect St., OML 122	
-New Haven, CT, 06511, USA	
+#### Address:
+<dd>Dept. of Ecology and Evolutionary Biology</dd>
+<dd>Yale University</dd>
+<dd>165 Prospect St., OML 122</dd>
+<dd>New Haven, CT, 06511, USA</dd>
 
