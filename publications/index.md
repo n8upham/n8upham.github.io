@@ -3,6 +3,23 @@ layout: pubs
 title: Nate Upham, Pubs
 ---
 
+## Publications: Articles
+
+Links to articles available at http://www.granneman.com/writing/.
+
+“In the Cockpit of JetS3t”  
+*Linux Magazine* (June 2007): 10
+
+“Security Analogies”  
+SecurityFocus (29 May 2007)
+
+“Vista Outsmarts Linux”  
+*Linux Magazine* (April 2007): 28-31, 52
+
+“Surprises Inside Microsoft Vista’s EULA”  
+SecurityFocus (27 Oct. 2006)
+
+
 ## Peer-reviewed publications
 Link to on [my ResearchGate page](https://www.researchgate.net/profile/Nathan_Upham/publications)
 
