@@ -6,13 +6,13 @@ title: Nate Upham, Pubs
 ## Peer-reviewed publications
 Link to on [my ResearchGate page](https://www.researchgate.net/profile/Nathan_Upham/publications)
 
-2008. Hafner, J. C., N. S. Upham, E. Reddington, and C. W. Torres. Phylogeography of the pallid kangaroo mouse, Microdipodops pallidus: a sand-obligate endemic of the Great Basin, western North America. Journal of Biogeography 35: 2102-2118. http://dx.doi.org/10.1111/j.1365-2699.2008.01942.x
+- 2008. Hafner, J. C., N. S. Upham, E. Reddington, and C. W. Torres. Phylogeography of the pallid kangaroo mouse, Microdipodops pallidus: a sand-obligate endemic of the Great Basin, western North America. Journal of Biogeography 35: 2102-2118. http://dx.doi.org/10.1111/j.1365-2699.2008.01942.x
 
-2011. Hafner, J. C., and N. S. Upham. Phylogeography of the dark kangaroo mouse, Microdipodops megacephalus: cryptic lineages and dispersal routes in North America’s Great Basin. Journal of Biogeography 38: 1077-1097. http://dx.doi.org/10.1111/j.1365-2699.2010.02472.x
+- 2011. Hafner, J. C., and N. S. Upham. Phylogeography of the dark kangaroo mouse, Microdipodops megacephalus: cryptic lineages and dispersal routes in North America’s Great Basin. Journal of Biogeography 38: 1077-1097. http://dx.doi.org/10.1111/j.1365-2699.2010.02472.x
 
-2012. Light, J. E., Hafner, J. C., Upham, N. S., and Reddington, E. Conservation genetics of kangaroo mice, genus Microdipodops. Journal of Mammalian Evolution 20: 129-146. http://dx.doi.org/10.1007/s10914-012-9193-2 
+- 2012. Light, J. E., Hafner, J. C., Upham, N. S., and Reddington, E. Conservation genetics of kangaroo mice, genus Microdipodops. Journal of Mammalian Evolution 20: 129-146. http://dx.doi.org/10.1007/s10914-012-9193-2 
 
-2012. Upham, N. S. and B. D. Patterson. Diversification and biogeography of the Neotropical caviomorph lineage Octodontoidea (Rodentia: Hystricognathi). Molecular Phylogenetics and Evolution 63: 417-429. http://dx.doi.org/10.1016/j.ympev.2012.01.020 
+- 2012. Upham, N. S. and B. D. Patterson. Diversification and biogeography of the Neotropical caviomorph lineage Octodontoidea (Rodentia: Hystricognathi). Molecular Phylogenetics and Evolution 63: 417-429. http://dx.doi.org/10.1016/j.ympev.2012.01.020 
 
 2013. Upham, N. S., and J. C. Hafner. Do nocturnal rodents in the Great Basin Desert avoid moonlight? Journal of Mammalogy. 94: 59-72. http://dx.doi.org/10.1644/12-MAMM-A-076.1. Popular press article here.
 
