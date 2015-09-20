@@ -1,0 +1,25 @@
+- title: "home"
+  href: "/"
+
+- title: "research"
+  href: "/research/"
+
+- title: "publications"
+  href: "/publications/"
+
+- title: "cv"
+  href: "/cv/"
+  subcategories:
+    - subtitle: "download pdf"
+      subhref: "/cv/Upham_CV.pdf"
+    - subtitle: "online version"
+      subhref: "/cv/"
+
+- title: "teaching"
+  href: "/teaching/"
+      
+- title: "outreach"
+  href: "/outreach/"
+  
+- title: "fieldwork"
+  href: "/fieldwork/"
