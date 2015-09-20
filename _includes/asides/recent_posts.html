@@ -1,7 +1,14 @@
 <aside class="small-12 large-4 columns page-content recent-posts">
-  <h2>Recent Posts</h2>
+	<h3> <strong>Contact</strong>: <a href="mailto:nathan.upham@yale.edu">nathan.upham@yale.edu</a>
+    	<dd>Ecology and Evolutionary Biology</dd>
+    	<dd>Yale University</dd>
+    	<dd>165 Prospect St, OML 122</dd>
+   	 	<dd>New Haven, CT, 06511 USA</dd>
+	</h3>
+
+  <h2>Latest news...</h2>
   <ul>
-    {% for post in site.posts limit:5 site.recent_posts %}
+    {% for post in site.posts limit:3 site.recent_posts %}
       <li>
         <a href="{{ site.baseurl }}{{ post.url }}">{% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{ post.title }}{% endif %}</a>
       </li>

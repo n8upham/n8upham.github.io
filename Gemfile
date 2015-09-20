@@ -5,7 +5,7 @@ versions = JSON.parse(open('https://pages.github.com/versions.json').read)
 
 gem 'github-pages', versions['github-pages']
 
-gem 'jekyll', '~> 2.5.3'	#Needed since this is a theme for Jekyll
+gem 'jekyll'	#Needed since this is a theme for Jekyll
 gem 'jekyll-sitemap'
 gem 'jekyll-feed'
 gem 'rake' 			#Used to simplify building/deploying tasks

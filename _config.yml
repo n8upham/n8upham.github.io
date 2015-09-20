@@ -45,6 +45,6 @@ google_universal_analytics: UA-67863233-1
 google_universal_analytics_cookiedomain: auto
 
 # Twitter Cards
-twitter_user: @n8_upham
+twitter_user: n8_upham
 twitter_card: true
 twitter_image:                        #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
