@@ -1,15 +1,6 @@
-- title: "feed"
-  href: "https://chrisanthropic.github.io/slim-pickins-jekyll-theme/atom.xml"
-
 - title: "googleplus"
-  href: "nateupham@gmail.com"
+  href: "https://plus.google.com/+NateUpham/about"
 
-- title: "facebook"
-  href: "#"
-  
-- title: "tumblr"
-  href: "#"
-  
 - title: "twitter"
   href: "https://twitter.com/n8_upham"
 
@@ -18,3 +9,8 @@
 
 - title: "linkedin"
   href: "https://www.linkedin.com/pub/nate-upham/47/b94/536"
+
+- title: "email"
+  href: "mailto:nathan.upham@yale.edu"
+  
+<!-- That last one is not implemented yet...-->
