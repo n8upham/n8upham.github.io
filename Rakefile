@@ -18,7 +18,7 @@ end
 ##############
 
 # Useful for development
-# It watches for chagnes and updates when it finds them
+# It watches for changes and updates when it finds them
 
 desc "Watch the site and regenerate when it changes"
 task :watch do
@@ -34,7 +34,7 @@ end
 
 desc "deploy the site"
 task :deploy do
-  system "bundle exec s3_website push"
+  system "bundle exec jekyll serve"
   system "bundle exec rake notify" #ping google/bing about our sitemap updates
 end
 
