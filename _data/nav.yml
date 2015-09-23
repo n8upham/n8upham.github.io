@@ -1,9 +1,6 @@
 - title: "home"
   href: "/"
 
-- title: "research"
-  href: "/research/"
-
 - title: "pubs"
   href: "/pubs/"
 
@@ -14,6 +11,9 @@
       subhref: "/cv/Upham_CV.pdf"
     - subtitle: "online version"
       subhref: "/cv/"
+
+- title: "research"
+  href: "/research/"
 
 - title: "teaching"
   href: "/teaching/"
