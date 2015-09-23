@@ -6,7 +6,7 @@ author: n8upham
 keywords: phylogenetics, evolution, biogeography, mammals, rodents
 description: Web pages describing NSU's academic interests and research
 
-baseurl: /home
+baseurl: /
 url: https://n8upham.github.io
 
 header: yes
