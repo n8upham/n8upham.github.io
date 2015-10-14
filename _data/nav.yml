@@ -5,7 +5,7 @@
   href: "/pubs/"
 
 - title: "cv"
-  href: "/cv/landing.html"
+  href: "/landing.html"
   subcategories:
     - subtitle: "download pdf"
       subhref: "/cv/Upham_CV.pdf"
