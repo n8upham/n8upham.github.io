@@ -15,7 +15,7 @@ You can [purchase your copy of the book here](https://www.sarem.org.ar/libros/).
 
 Unfortunately we cannot distribute a pdf of the chapter yet.
 
-However, here is a main figure from the chapter, and an abstract is pasted below:
+However, here is a main figure from the chapter, and the abstract is pasted below:
 
 <img src="http://n8upham.github.io/images/Fig6-cv2.jpg" height="200" />
 
