@@ -9,7 +9,7 @@ sitemap:
   exclude: 'no'
 ---
 
-Excited for this long-awaited chapter co-authored with [Bruce Patterson](https://sites.google.com/a/fieldmuseum.org/bruce-pattersons-lab/Home) to be published in the volume <i>Biology of caviomorph rodents: diversity and evolution</i> edited by Aldo Vassallo and Daniel Antenucci, and published by the Argentine Mammal Society (SAREM Series A, Buenos Aires, Argentina).
+Excited for this long-awaited chapter co-authored with [Bruce Patterson](https://sites.google.com/a/fieldmuseum.org/bruce-pattersons-lab/Home), which was just published in the volume <i>Biology of caviomorph rodents: diversity and evolution</i> edited by Aldo Vassallo and Daniel Antenucci, and published by the Argentine Mammal Society (SAREM Series A, Buenos Aires, Argentina).
 
 You can [purchase your copy of the book here](https://www.sarem.org.ar/libros/).
 

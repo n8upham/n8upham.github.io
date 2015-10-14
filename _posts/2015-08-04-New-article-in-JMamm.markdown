@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New species of soft-haired mouse from the temperate Valdivian rainforest"
+title: "New species from the temperate Valdivian rainforest, Chile"
 date: 2015-08-04
 sitemap:
   lastmod: 2015-08-04
@@ -9,8 +9,7 @@ sitemap:
   exclude: 'no'
 ---
 
-I was lucky enough to be involved in describing this new species of <i>Abrothrix</i> with a team led by [Guillermo D'Elia](https://www.researchgate.net/profile/Guillermo_DElia) at (Instituto de Ciencias Ambientales & Evolutivas, Universidad Austral de Chile), based on.
-
+I was lucky enough to be involved in describing this new species of soft-haired mouse, genus <i>Abrothrix</i>, with a team led by [Guillermo D'Elia](https://www.researchgate.net/profile/Guillermo_DElia) at (Universidad Austral de Chile).  Together using genetic and morphological characters, we were able to demonstrate the species-level distinctiveness of populations on and near Chiloe Island, southern Chile.
 
 [Popular press for the article in the Valdivian papers](http://www.australvaldivia.cl/impresa/2015/09/03/full/cuerpo-principal/2/texto/).
 
