@@ -9,7 +9,7 @@ sitemap:
   exclude: 'no'
 ---
 
-I was lucky enough to be involved in describing this new species of soft-haired mouse, genus <i>Abrothrix</i>, with a team led by [Guillermo D'Elia](https://www.researchgate.net/profile/Guillermo_DElia) (Universidad Austral de Chile).  Using morphological and genetic characters, including dried-tissue DNA from specimens at the Field Museum, we were together able to demonstrate the species-level distinctiveness of populations on and near Chiloé Island, southern Chile.
+I was fortunate to be involved in describing this new species of soft-haired mouse, genus <i>Abrothrix</i>, with a talented team led by [Guillermo D'Elía](https://www.researchgate.net/profile/Guillermo_DElia) (Universidad Austral de Chile).  Using morphological and genetic characters, including dried-tissue DNA from specimens housed at the Field Museum, we were together able to demonstrate the species-level distinctiveness of populations on and near Chiloé Island, southern Chile.
 
 [Popular press for the article in the Valdivian papers](http://www.australvaldivia.cl/impresa/2015/09/03/full/cuerpo-principal/2/texto/).
 
