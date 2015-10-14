@@ -1,22 +1,21 @@
 ---
 layout: post
-title: "New article: Genus-level timetree for caviomorph rodents"
-date: 2015-10-05
+title: "New species of soft-haired mouse from the temperate Valdivian rainforest"
+date: 2015-08-04
 sitemap:
-  lastmod: 2015-10-05
+  lastmod: 2015-08-04
   priority: 0.5
   changefreq: monthly
   exclude: 'no'
 ---
 
-Excited for this long-awaited chapter co-authored with [Bruce Patterson](https://sites.google.com/a/fieldmuseum.org/bruce-pattersons-lab/Home) to be published in the volume <i>Biology of caviomorph rodents: diversity and evolution</i> edited by Aldo Vassallo and Daniel Antenucci, and published by the Argentine Mammal Society (SAREM Series A, Buenos Aires, Argentina).
+I was lucky enough to be involved in describing this new species of <i>Abrothrix</i> with a team led by [Guillermo D'Elia](https://www.researchgate.net/profile/Guillermo_DElia) at (Instituto de Ciencias Ambientales & Evolutivas, Universidad Austral de Chile), based on.
 
-You can purchase your copy of the book [here](https://www.sarem.org.ar/libros/).
 
-Unfortunately we cannot distribute a pdf of the chapter yet.
+[Popular press for the article in the Valdivian papers](http://www.australvaldivia.cl/impresa/2015/09/03/full/cuerpo-principal/2/texto/).
 
-However, an abstract of our chapter is pasted here:
+An abstract of our article is pasted here:
 
 <h3>Abstract. </h3>
-The Caviomorpha is a diverse lineage of hystricognath rodents endemic to the Americas and Caribbean islands. We analyzed evolutionary relationships within 11 families of caviomorphs and their relatives in the suborder Ctenohystrica using a supermatrix of 199 taxa and DNA sequences from five genes. New gene sequences were generated for 33 genera, including 12 genera newly available for molecular analysis. Presented here are the analyses pruned to a single representative for each genus, totaling 68 of the 70 living genera in Ctenohystrica. Our analyses recovered strong support for Hystricognathi containing the monophyletic groups Hystricidae, Phiomorpha, and Caviomorpha, with the latter two groups as well- supported sister taxa. The analyses also strongly supported the monophyly of the four traditional superfamilies of caviomorphs, with Cavioidea + Erethizontoidea and Chinchilloidea (including Dinomyidae) + Octodontoidea. Cuniculidae + Dasyproctidae are recovered as sister to Caviidae (including Hydrochoerus). Abrocomidae (including Cuscomys) is sister to the remaining octodontoid families, consisting of the dyads Octodontidae + Ctenomyidae and Echimyidae (including Myocastor) + Capromyidae. The five genera of capromyids form a robustly monophyletic group, but they are allied to a group of Brazilian echimyids, rendering Echimyidae paraphyletic. We dated nodes in our tree by comparing eight sets of fossil calibrations, identifying a set of 22 calibrations that minimized internal age conflicts.The resulting timetree dates the Hystricognathi crown to the Middle Eocene, 44.9 Ma, and the phiomorph-caviomorph split to 42.0 Ma. Crown caviomorphs diverged at 35.7 Ma, and splits of Cavioidea-Erethizontoidea and Chinchilloidea-Octodontoidea occurred at 32.4 Ma and 32.8 Ma, respectively. Most families appeared in the late Oligocene-Early Miocene and virtually all genera are of Middle-Late Miocene age, with a few exceptions. We briefly consider geo-climatic changes that might have influenced the evolution of hystricognath rodents, deferring to another work a detailed analysis of their rates and ecological drivers of diversification.
+Analyses of morphological and molecular data indicate the existence of an unrecognized and unnamed species of soft-haired mouse, genus Abrothrix. Here, we name and describe this new species, which inhabits the Valdivian ecoregion, from the north of Chiloé Island onto the mainland in the Chilean regions of Los Lagos and Los Ríos; it also occurs at a single locality in the Argentinean province of Neuquén. Long confused with A. sanborni, the new species presents a unique combination of characters that differentiate it in external, cranial, phallic, and dental terms from its congeners. Phylogenetic analysis, based on cytochrome-b gene sequences, indicates that the new species is sister to a clade formed by the austral species A. lanosa and A. sanborni and differs on average from them by 5.7% and 5.2%, respectively. Results based on the nuclear Fgb-I7 locus are less conclusive regarding the phylogenetic position of the new species but also show its distinction. We comment on the conservation significance of our findings, considering that forests of the Valdivian ecoregion are suffering substantial human disturbance through intensive logging.
 
