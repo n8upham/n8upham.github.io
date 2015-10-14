@@ -9,6 +9,8 @@
   subcategories:
     - subtitle: "download pdf"
       subhref: "/cv/Upham_CV.pdf"
+    - subtitle: "online version"
+      subhref: "/cv/"
 
 - title: "research"
   href: "/research/"
