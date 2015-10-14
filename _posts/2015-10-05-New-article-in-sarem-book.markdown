@@ -15,7 +15,9 @@ You can [purchase your copy of the book here](https://www.sarem.org.ar/libros/).
 
 Unfortunately we cannot distribute a pdf of the chapter yet.
 
-However, an abstract of our chapter is pasted here:
+However, here is a main figure from the chapter, and an abstract is pasted below:
+
+<img src="http://n8upham.github.io/images/Fig6-cv2.jpg" height="200" />
 
 <h3>EVOLUTION OF CAVIOMORPH RODENTS: A COMPLETE PHYLOGENY AND TIMETREE FOR LIVING GENERA
 <p>
