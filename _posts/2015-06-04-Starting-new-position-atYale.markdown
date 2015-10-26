@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Started a new post-doc at Yale on tetrapods and traits"
+title: "Started a new post-doc! Tetrapods and traits at Yale Univ"
 date: 2015-06-04
 sitemap:
   lastmod: 2015-06-04
