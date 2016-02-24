@@ -15,7 +15,7 @@ These key funds will enable us to sequence RADseq loci from a population-level s
 
 Read more [here](https://www.instrumentl.com/campaigns/super-sized-genomes-desert-vizcacha-rats/)!  And see our NSF pre-proposal abstract below... (fingers crossed!).
 
-<img src="http://n8upham.github.io/images/Mamm-genomeSize__forNSF2_caption.jpg" width="100px" style="float:right; margin-left: 2em; margin-bottom: 2em"/>
+<img src="http://n8upham.github.io/images/Mamm-genomeSize__forNSF2_caption.jpg" width="400px" style="float:right; margin-left: 2em; margin-bottom: 2em"/>
 
 <h3>UNDERSTANDING THE QUANTUM GENOME EXPANSION OF DESERT VIZCACHA RATS</h3>
 
