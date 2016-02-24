@@ -9,7 +9,7 @@ sitemap:
   exclude: 'no'
 ---
 
-Thanks to some extremely generous folks, [we raised a total of $978 from 12 donors](https://www.instrumentl.com/campaigns/super-sized-genomes-desert-vizcacha-rats/) over the course of our rapid-fire crowdfunding campaign.  The website Instrumentl Beta helped both to motivate and organize our fundraising page, so I am grateful to them as well.
+Thanks to some extremely generous folks, [we raised a total of $978 from 12 donors](https://www.instrumentl.com/campaigns/super-sized-genomes-desert-vizcacha-rats/) over the course of our rapid-fire crowdfunding campaign.  The website [Instrumentl Beta](https://www.instrumentl.com/crowd/) helped both to motivate and organize our fundraising page, so I am grateful to them as well.
 
 These key funds will enable us to sequence RADseq loci from a population-level sample of three vizcacha rat species distributed across Argentina.  This work mainly relies on existing dried and fresh tissues from museum collections and our collaborators Ricardo and Agustina Ojeda.  We continue this work started during my brief stint as post-doc at McMaster University under the guidance of Ben Evans and Brian Golding.
 
