@@ -15,7 +15,7 @@ My collaborators and I published our first article on the genomics of Argentine 
 
 This work started in Aug 2014 with an expedition to Mendoza Province, Argentina while I was a post-doc at McMaster University to collect high quality tissues from the red vizcacha rat, _Tympanoctomys barrerae_ (see the [Human Geographic article](http://www.thehumangeographic.com/vizcacha-rat/) I wrote about that successful trip). We subsequently returned in Feb 2015 to collect matching tissues from _Octomys mimax_, the closest living relative of _Tympanoctomys_ that has a normal-sized genome, to evaluate evidence for the hypotheses of _Tympanoctomys_ genome expansion via mechanisms of whole genome duplication vs. repetitive element accumulation.
 
-<img src="http://n8upham.github.io/images/Fig1mbe_smallVizRatPhy_plusPhoto_600dpi.jpg" height="100" />
+<img src="http://n8upham.github.io/images/Fig1mbe_smallVizRatPhy_plusPhoto_300dpi.jpg" height="100" />
 
 Results from RNAseq transcriptomes and HiSeqX short-reads found no evidence for widespread duplicated genes (expected if allopolyploidy had occurred) and instead uncovered abundant repetitive DNA.  We conclude that repetitive elements such as retrotransposons are likely responsible for the rapid genome expansion of _Tympanoctomys_ during the past 5 million years, but highlight that many questions remain.  Foremost is why the 102-chromosome complement of _Tympanoctomys_ is nearly all bi-armed, and how their chromosomal lability fits into the larger picture of Octodontidae and Octodontoidea evolution.
 
