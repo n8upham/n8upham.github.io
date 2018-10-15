@@ -17,3 +17,5 @@ There were 8 of us hackers invited, and we ended up assembling this [PhyloMancer
 
 <img src="http://n8upham.github.io/images/arborCornell.jpg" height="400" />
 
+<img src="http://n8upham.github.io/images/arborOrnitho.jpg" height="400" />
+
