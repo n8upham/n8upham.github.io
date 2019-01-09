@@ -11,7 +11,7 @@ sitemap:
 
 I was fortunate enough to help describe a new species of soft-haired mouse, <i>Abrothrix manni</i>, while collaborating with a talented team led by [Guillermo D'Elía](https://www.researchgate.net/profile/Guillermo_DElia) (Universidad Austral de Chile).  Together using morphological and genetic characters, including dried-tissue DNA from specimens housed at the Field Museum, we were able to demonstrate the species-level distinctiveness of populations on and near Chiloé Island, southern Chile.
 
-[Popular press for the article in the Valdivian papers](http://www.australvaldivia.cl/impresa/2015/09/03/full/cuerpo-principal/2/texto/).
+[Popular press for the article in the Valdivian papers](https://www.australvaldivia.cl/impresa/2015/09/03/full/cuerpo-principal/2/texto/).
 
 [The article can be downloaded here](https://www.researchgate.net/publication/280627167_Description_of_a_new_soft-haired_mouse_genus_Abrothrix_%28Sigmodontinae%29_from_the_temperate_Valdivian_rainforest), and an abstract is pasted below:
 

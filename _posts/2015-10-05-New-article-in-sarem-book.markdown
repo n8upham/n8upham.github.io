@@ -17,7 +17,7 @@ Unfortunately we cannot distribute a pdf of the chapter yet.
 
 However, here is a main figure from the chapter, and the abstract is pasted below:
 
-<img src="http://n8upham.github.io/images/Fig6-cv2.jpg" height="200" />
+<img src="https://n8upham.github.io/images/Fig6-cv2.jpg" height="200" />
 
 <h3>EVOLUTION OF CAVIOMORPH RODENTS: A COMPLETE PHYLOGENY AND TIMETREE FOR LIVING GENERA
 <p>
