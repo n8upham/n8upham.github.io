@@ -11,7 +11,7 @@ sitemap:
 
 I'm excited to finally share our new study on Mammalia-wide phylogeny and species diversification with a broader audience, which we released as preprint last week: 
 
-**Upham, N. S.**, J. A. Esselstyn, and W. Jetz. 2019. [Ecological causes of uneven diversification and richness in the mammal tree of life.](https://doi.org/10.1101/504803) bioRxiv:504803.
+>**Upham, N. S.**, J. A. Esselstyn, and W. Jetz. 2019. [Ecological causes of uneven diversification and richness in the mammal tree of life.](https://doi.org/10.1101/504803) bioRxiv:504803.
 
 Already, the study has been generating a buzz on Twitter, including [over 4000 engagements on this thread](https://twitter.com/n8_upham/status/1082317979776401409)!  Great to see many people sharing in my excitement about mammal evolution and the potentials for robustly addressing rate-based evolutionary questions with this new supermatrix-based tree of life we generated.
 
