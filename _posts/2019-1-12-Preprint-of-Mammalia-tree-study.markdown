@@ -20,11 +20,11 @@ Already, the study has been generating a buzz on Twitter, including [over 4000 e
 Here is Fig. 1 in the main paper, showing species-level relationships and diversification rates across 5911 species of mammals. The branches are colored with tip-level diversification rates (tip DR) and marked with 24 shifts in lineage diversification rates.
 
 <tr><td><img src="https://n8upham.github.io/images/Fig1_NDexp_TopoCons_24Oct2018.jpg" width="1000px" /></td></tr>
-<p>
 
-Even more exciting is the ZOOM-IN version of this tree, where the tip labels are visible with "Genus_species_FAMILY_ORDER" tags consistently displayed throughout.
+<p></p>
+<p></p>
 
-<a href="https://n8upham.github.io/images/FigS12_annotated.pdf">
+Even more exciting is the <a href="https://n8upham.github.io/images/FigS12_annotated.pdf">ZOOM-IN</a> version of this tree, where the tip labels are visible with "Genus_species_FAMILY_ORDER" tags consistently displayed throughout.
+
 <embed src="https://n8upham.github.io/images/FigS12_annotated.pdf" width="1000px" height="1000px"/>
-</a>
 
