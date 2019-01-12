@@ -11,9 +11,22 @@ sitemap:
 
 I'm excited to finally share our new study on Mammalia-wide phylogeny and species diversification with a broader audience, which we released as preprint last week: 
 
->>**Upham, N. S.**, J. A. Esselstyn, and W. Jetz.[Ecological causes of uneven diversification and richness in the mammal tree of life.](https://doi.org/10.1101/504803). bioRxiv:504803.
+>>[**Upham, N. S.**, J. A. Esselstyn, and W. Jetz. Ecological causes of uneven diversification and richness in the mammal tree of life. bioRxiv:504803.](https://doi.org/10.1101/504803)
 
 Already, the study has been generating a buzz on Twitter, including [over 4000 engagements on this thread](https://twitter.com/n8_upham/status/1082317979776401409)!  Great to see many people sharing in my excitement about mammal evolution and the potentials for robustly addressing rate-based evolutionary questions with this new supermatrix-based tree of life we generated.
+
+Most importantly, with use of this new tree, we learned several surprising things:
+<ul>
+<li>Speciation rates are a stronger predictor of among-clade richness than clade age, countering claims of clock-like speciation in large phylogenies.</li>
+<li>Mammals with low dispersal or that are day-active show the fastest recent diversification, consistent with mechanisms of allopatric speciation and ecological opportunity, respectively.</li>
+<li>Speciation rates are surprisingly faster in extra-tropical than tropical lineages, suggesting that longer species durations for tropical lineages underpin the latitudinal diversity gradient in mammals.</li>
+</ul>
+<table class="image" style="float:right; margin-left: 2em">
+<caption align="bottom">
+We use path analysis to link species ecological traits to uneven rates and richness among clades--species with lower dispersal ability and clades at non-tropical latitudes are paradoxically diversifying the fastest. High turnover (speciation + extinction) may be implicated.	</caption>
+<tr><td><img src="https://n8upham.github.io/images/Fig5_phyloPath_10-30-50Ma_igraphColVar_wHexbins_noMRCA_horizUnderCI_symbAxes_Nat_1000tree_DiCath.jpg" width="450px" /></td></tr>
+</table>
+
 
 Here is Fig. 1 in the main paper, showing species-level relationships and diversification rates across 5911 species of mammals. The branches are colored with tip-level diversification rates (tip DR) and marked with 24 shifts in lineage diversification rates.
 
@@ -22,7 +35,8 @@ Here is Fig. 1 in the main paper, showing species-level relationships and divers
 <p></p>
 <p></p>
 
-Even more exciting is the <a href="https://n8upham.github.io/images/FigS12_annotated.pdf" download>ZOOM-IN</a> version of this tree, where the tip labels are visible with "Genus_species_FAMILY_ORDER" tags consistently displayed throughout.
+Even more exciting is the <a href="https://n8upham.github.io/images/FigS12_annotated.pdf" download>ZOOM-IN</a> version of this tree, where the tip labels are visible with "Genus_species_FAMILY_ORDER" tags consistently displayed throughout (Fig S12 in the __SI Appendix__).
 
 <embed src="https://n8upham.github.io/images/FigS12_annotated.pdf" width="600px" height="600px"/>
 
+The giant Supplementary Information (94 pages, single spaced) is full of details of our tree-building and analysis methods
