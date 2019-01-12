@@ -21,12 +21,6 @@ Most importantly, with use of this new tree, we learned several surprising thing
 <li>Mammals with low dispersal or that are day-active show the fastest recent diversification, consistent with mechanisms of allopatric speciation and ecological opportunity, respectively.</li>
 <li>Speciation rates are surprisingly faster in extra-tropical than tropical lineages, suggesting that longer species durations for tropical lineages underpin the latitudinal diversity gradient in mammals.</li>
 </ul>
-<table class="image" style="float:right; margin-left: 2em">
-<caption align="bottom">
-We use path analysis to link species ecological traits to uneven rates and richness among clades--species with lower dispersal ability and clades at non-tropical latitudes are paradoxically diversifying the fastest. High turnover (speciation + extinction) may be implicated.	</caption>
-<tr><td><img src="https://n8upham.github.io/images/Fig5_phyloPath_10-30-50Ma_igraphColVar_wHexbins_noMRCA_horizUnderCI_symbAxes_Nat_1000tree_DiCath.jpg" width="450px" /></td></tr>
-</table>
-
 
 **Here is Fig. 1 in the main paper**, showing species-level relationships and diversification rates across 5911 species of mammals. The branches are colored with tip-level diversification rates (tip DR) and marked with 24 shifts in lineage diversification rates.
 
