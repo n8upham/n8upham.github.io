@@ -28,7 +28,7 @@ We use path analysis to link species ecological traits to uneven rates and richn
 </table>
 
 
-Here is Fig. 1 in the main paper, showing species-level relationships and diversification rates across 5911 species of mammals. The branches are colored with tip-level diversification rates (tip DR) and marked with 24 shifts in lineage diversification rates.
+**Here is Fig. 1 in the main paper**, showing species-level relationships and diversification rates across 5911 species of mammals. The branches are colored with tip-level diversification rates (tip DR) and marked with 24 shifts in lineage diversification rates.
 
 <tr><td><img src="https://n8upham.github.io/images/Fig1_NDexp_TopoCons_24Oct2018.jpg" width="1000px" /></td></tr>
 
@@ -39,4 +39,9 @@ Even more exciting is the <a href="https://n8upham.github.io/images/FigS12_annot
 
 <embed src="https://n8upham.github.io/images/FigS12_annotated.pdf" width="600px" height="600px"/>
 
-The giant Supplementary Information (94 pages, single spaced) is full of details of our tree-building and analysis methods
+The [giant Supplementary Information](https://www.biorxiv.org/content/early/2019/01/04/504803.figures-only?versioned=true) (94 pages, single spaced) is full of details of our tree-building and analysis methods -- below is a key conceptual figure explaining our pipeline.
+
+
+
+
+
