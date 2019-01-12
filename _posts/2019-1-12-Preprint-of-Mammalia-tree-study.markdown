@@ -11,13 +11,14 @@ sitemap:
 
 I'm excited to finally share our new study on Mammalia-wide phylogeny and species diversification with a broader audience, which we released as preprint last week: 
 
->**Upham, N. S.**, J. A. Esselstyn, and W. Jetz. 2019. [Ecological causes of uneven diversification and richness in the mammal tree of life.](https://doi.org/10.1101/504803) bioRxiv:504803.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Upham, N. S.**, J. A. Esselstyn, and W. Jetz. 2019. [Ecological causes of uneven diversification and richness in the mammal tree of life.](https://doi.org/10.1101/504803) bioRxiv:504803.
 
 Already, the study has been generating a buzz on Twitter, including [over 4000 engagements on this thread](https://twitter.com/n8_upham/status/1082317979776401409)!  Great to see many people sharing in my excitement about mammal evolution and the potentials for robustly addressing rate-based evolutionary questions with this new supermatrix-based tree of life we generated.
 
-<table class="image" style="float:center" caption-side="bottom" text-align="left">
-<caption align="bottom" justify="left">This is Fig. 1 in the main paper. Species-level relationships and diversification rates across 5911 species of mammals. The branches are colored with tip-level diversification rates (tip DR) and marked with 24 shifts in lineage diversification rates (labels A-X; shifts with multiple circles occurred on either branch, not both; all shifts were detected in ≥ 5 of 10 trees analyzed in BAMM (43)). Maximum clade credibility topology of 10,000 trees. Numbered clade labels correspond to orders and subclades listed in the plot periphery: Mars, Marsupialia; X, Xenarthra; Afro, Afrotheria; Laur, Laurasiatheria; Euar, Euarchontoglires. Scale in millions of years, Ma.</caption>
+Here is Fig. 1 in the main paper, showing species-level relationships and diversification rates across 5911 species of mammals. The branches are colored with tip-level diversification rates (tip DR) and marked with 24 shifts in lineage diversification rates.
 <tr><td><img src="https://n8upham.github.io/images/Fig1_NDexp_TopoCons_24Oct2018.jpg" width="1000px" /></td></tr>
-</table>
 
+Even more exciting is the ZOOM-IN version of this tree, where the tip labels are visible with "Genus_species_FAMILY_ORDER" tags consistently displayed throughout.
 
+<a href="https://n8upham.github.io/images/FigS12_annotated.pdf">
+<img src="FigS12_annotated.pdf" width="1000px"></a>
