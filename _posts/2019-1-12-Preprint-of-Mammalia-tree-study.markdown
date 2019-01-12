@@ -22,7 +22,7 @@ Here is Fig. 1 in the main paper, showing species-level relationships and divers
 <p></p>
 <p></p>
 
-Even more exciting is the <a href="https://n8upham.github.io/images/FigS12_annotated.pdf">ZOOM-IN</a> version of this tree, where the tip labels are visible with "Genus_species_FAMILY_ORDER" tags consistently displayed throughout.
+Even more exciting is the <a href="https://n8upham.github.io/images/FigS12_annotated.pdf" download>ZOOM-IN</a> version of this tree, where the tip labels are visible with "Genus_species_FAMILY_ORDER" tags consistently displayed throughout.
 
-<embed src="https://n8upham.github.io/images/FigS12_annotated.pdf" width="1000px" height="1000px"/>
+<embed src="https://n8upham.github.io/images/FigS12_annotated.pdf" width="600px" height="600px"/>
 
