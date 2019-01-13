@@ -30,10 +30,12 @@ We conclude that the various diversification processes we detect in our phylogen
 
 <br>
 
-Even more exciting is the <a href="https://n8upham.github.io/images/FigS12_annotated.pdf" download>ZOOM-IN</a> version of this tree, where the tip labels are visible with "Genus_species_FAMILY_ORDER" tags consistently displayed throughout (Fig S12 in the [_SI Appendix_](https://www.biorxiv.org/content/early/2019/01/04/504803.figures-only?versioned=true)).
+<table class="image" style="float:left; margin-right: 2em">
+<tr><td><embed src="https://drive.google.com/viewerng/
+viewer?embedded=true&url=https://n8upham.github.io/images/FigS12_annotated.pdf" align="center" width="600px" height="600px"/></td></tr>
+</table>
 
-<embed src="https://drive.google.com/viewerng/
-viewer?embedded=true&url=https://n8upham.github.io/images/FigS12_annotated.pdf" align="center" width="600px" height="600px"/>
+Even more exciting is the <a href="https://n8upham.github.io/images/FigS12_annotated.pdf" download>ZOOM-IN</a> version of this tree, where the tip labels are visible with "Genus_species_FAMILY_ORDER" tags consistently displayed throughout (Fig S12 in the [_SI Appendix_](https://www.biorxiv.org/content/early/2019/01/04/504803.figures-only?versioned=true)).
 
 <br>
 
