@@ -30,7 +30,7 @@ We conclude that the various diversification processes we detect in our phylogen
 
 <br>
 
-<table class="image" style="float:left; margin-right: 2em">
+<table class="image" style="float:left; margin-right: 2em; margin-bottom: 2em">
 <tr><td><embed src="https://drive.google.com/viewerng/
 viewer?embedded=true&url=https://n8upham.github.io/images/FigS12_annotated.pdf" align="center" width="600px" height="600px"/></td></tr>
 </table>
