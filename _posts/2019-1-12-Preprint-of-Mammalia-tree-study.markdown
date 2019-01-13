@@ -22,7 +22,7 @@ Most importantly, with use of this new tree, we learned several surprising thing
 <li>Mammals with low dispersal or that are day-active show the fastest recent diversification, consistent with mechanisms of allopatric speciation and ecological opportunity, respectively.</li>
 </ul>
 
-We conclude that the various diversification processes we detect in our phylogeny of living species are acting on different time scales, and thus leaving different signatures in terms of what species went extinct versus survived.  We constrast these processes as ephemeral versus adaptive, and highlight that while both lead to increases in speciation rates, the former is driven by high turnover (speciation + extinction) while the latter adaptive processes lead to lower extinction rates.
+We conclude that the various diversification processes we detect in our phylogeny of living species are acting on different time scales, and thus leaving different signatures in terms of what species went extinct versus survived.  **We constrast these processes as ephemeral versus adaptive diversification**, highlighting that while both lead to increases in speciation rates, the former is driven by high turnover (speciation + extinction) while the latter adaptive process involves lower extinction rates.
 
 **Here is Fig. 1 in the main paper**, showing species-level relationships and diversification rates across 5911 species of mammals. The branches are colored with tip-level diversification rates (tip DR) and marked with 24 shifts in lineage diversification rates.
 
