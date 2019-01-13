@@ -37,7 +37,9 @@ viewer?embedded=true&url=https://n8upham.github.io/images/FigS12_annotated.pdf" 
 
 <br>
 
-The [giant Supplementary Information](https://www.biorxiv.org/content/early/2019/01/04/504803.figures-only?versioned=true) (94 pages, single spaced) is full of details of our tree-building and analysis methods -- below is a key conceptual figure explaining our pipeline.
+The [giant Supplementary Information](https://www.biorxiv.org/content/early/2019/01/04/504803.figures-only?versioned=true) (94 pages, single spaced) is full of details of our tree-building and analysis methods -- below is a key conceptual figure explaining our pipeline. Dig into it!
+
+Note that we cannot release the trees for analysis until the ms is formally published -- but they will then be available at http://vertlife.org/phylosubsets/ for subsetting & doing analyses samples of 100-1000 trees.
 
 <tr><td><img src="https://n8upham.github.io/images/Fig2_DRdensities_inRadial_patchClades_readyToGo_comboWithFlow_extended_forPNAS_methods.jpg" width="800px" /></td></tr>
 
