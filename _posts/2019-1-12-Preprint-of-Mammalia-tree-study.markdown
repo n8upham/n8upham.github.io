@@ -28,14 +28,14 @@ We conclude that the various diversification processes we detect in our phylogen
 
 <tr><td><img src="https://n8upham.github.io/images/Fig1_NDexp_TopoCons_24Oct2018.jpg" width="1000px" /></td></tr>
 
-<br><br>
+<br>
 
-Even more exciting is the <a href="https://n8upham.github.io/images/FigS12_annotated.pdf" download>ZOOM-IN</a> version of this tree, where the tip labels are visible with "Genus_species_FAMILY_ORDER" tags consistently displayed throughout (Fig S12 in the __SI Appendix__).
+Even more exciting is the <a href="https://n8upham.github.io/images/FigS12_annotated.pdf" download>ZOOM-IN</a> version of this tree, where the tip labels are visible with "Genus_species_FAMILY_ORDER" tags consistently displayed throughout (Fig S12 in the [_SI Appendix_](https://www.biorxiv.org/content/early/2019/01/04/504803.figures-only?versioned=true)).
 
 <embed src="https://drive.google.com/viewerng/
 viewer?embedded=true&url=https://n8upham.github.io/images/FigS12_annotated.pdf" align="center" width="600px" height="600px"/>
 
-<br><br>
+<br>
 
 The [giant Supplementary Information](https://www.biorxiv.org/content/early/2019/01/04/504803.figures-only?versioned=true) (94 pages, single spaced) is full of details of our tree-building and analysis methods -- below is a key conceptual figure explaining our pipeline.
 
