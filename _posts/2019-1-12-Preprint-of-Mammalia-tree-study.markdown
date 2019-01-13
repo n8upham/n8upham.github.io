@@ -13,11 +13,11 @@ I'm excited to finally share our new study on Mammalia-wide phylogeny and specie
 
 >>[**Upham, N. S.**, J. A. Esselstyn, and W. Jetz. Ecological causes of uneven diversification and richness in the mammal tree of life. bioRxiv:504803.](https://doi.org/10.1101/504803)
 
-The study has been generating a buzz on Twitter, including [over 350 re-tweets (4000 engagements!) on this thread](https://twitter.com/n8_upham/status/1082317979776401409).  Great to see many people sharing in my excitement about mammal evolution and the potentials for robustly addressing rate-based evolutionary questions with this new supermatrix-based tree of life we generated.
+The study has been generating a buzz on Twitter, including [over 350 re-tweets (4300+ engagements!) on this thread](https://twitter.com/n8_upham/status/1082317979776401409).  Great to see many people sharing in my excitement about mammal evolution and the potentials for robustly addressing rate-based evolutionary questions with this new supermatrix-based tree of life we generated.
 
 **Most importantly**, with use of this new tree, we learned several surprising things:
 <ul>
-<li>Speciation rates are a stronger predictor of among-clade richness than clade age, countering claims of clock-like speciation in large phylogenies.</li>
+<li>Speciation rates are a stronger predictor of among-clade richness than clade age, countering <a href="https://academic.oup.com/mbe/article/32/4/835/1078218">claims of clock-like speciation in large phylogenies</a>.</li>
 <li>Speciation rates are surprisingly faster in extra-tropical than tropical lineages, suggesting that longer species durations for tropical lineages underpin the latitudinal diversity gradient in mammals.</li>
 <li>Mammals with low dispersal or that are day-active show the fastest recent diversification, consistent with mechanisms of allopatric speciation and ecological opportunity, respectively.</li>
 </ul>
