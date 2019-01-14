@@ -9,6 +9,10 @@ sitemap:
   exclude: 'no'
 ---
 
+<meta property="og:image" content="https://n8upham.github.io/images/Fig1_NDexp_TopoCons_24Oct2018.jpg" />
+<meta property="og:image:width" content="500" />
+<meta property="og:image:height" content="500" />
+
 I'm excited to finally share our new study on Mammalia-wide phylogeny and species diversification with a broader audience, which we released as a preprint last week: 
 
 >>[**Upham, N. S.**, J. A. Esselstyn, and W. Jetz. Ecological causes of uneven diversification and richness in the mammal tree of life. bioRxiv:504803.](https://doi.org/10.1101/504803)
