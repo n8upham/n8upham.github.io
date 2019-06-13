@@ -13,7 +13,7 @@ sitemap:
 <meta property="og:image:width" content="500" />
 <meta property="og:image:height" content="500" />
 
-Its the first art award that I've won since 2nd grade!  Last week I won first place in two categories as well as Overall Best Entry in Yale's inaugural Art in Research Competition, which is sponsored by the Office of the Provost.  Great to get some recognition for this work.  
+Its my first art award since 2nd grade!  Last week I won first place in two categories as well as Overall Best Entry in Yale's inaugural Art in Research Competition, which is sponsored by the Office of the Provost.  Great to get some recognition for this work.  
 
 <tr><td><img src="https://n8upham.github.io/images/Fig1_NDexp_TopoCons_24Oct2018.jpg" width="1000px" /></td></tr>
 
@@ -23,7 +23,7 @@ In response I wrote this [post for the Jetz Lab](https://jetzlab.yale.edu/news/n
 
 I also printed the poster in 196" x 72" format (i.e., "Nate size"):
 
-<tr><td><img src="https://n8upham.github.io/images/bigPoster.jpg" width="500px" /></td></tr>
+<tr><td><img src="https://n8upham.github.io/images/bigPoster.jpg" width="1000px" /></td></tr>
 
 
 
