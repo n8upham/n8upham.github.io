@@ -21,9 +21,11 @@ In response I wrote this [post for the Jetz Lab](https://jetzlab.yale.edu/news/n
 
 > "Life imitates Art," was the bold claim of Oscar Wilde, "more than Art imitates Life". However, what if Art imitates the Tree of Life?  That question was pursued by Jetz Lab postdoctoral researcher Nathan Upham as regards the evolutionary tree of life for Mammalia, the lineage of furry animals that spans back 180-million-years to the common ancestor of humans, kangaroos, and duck-billed platypuses. In attempting to communicate the vast evolutionary history of mammals, Upham stumbled on an artistically pleasing solution. "We wanted to communicate about the mammal diversification in both an educational and scientific way," said Upham. "Images are the most efficient way we can communicate our science."
 
-I also printed the poster in 196" x 72" format (i.e., "Nate size"):
+I also printed the poster in 196" x 72" format (i.e., "door size") to enable native reading of the species tips-- its a bit blurry, but we're nearly there:
 
 <tr><td><img src="https://n8upham.github.io/images/bigPoster.jpg" width="1000px" /></td></tr>
+
+<tr><td><img src="https://n8upham.github.io/images/bigPoster_tips.jpg" width="1000px" /></td></tr>
 
 
 
