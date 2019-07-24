@@ -13,8 +13,6 @@ Aiming to better explain the advantages of our new mammal trees of life, I built
 
 The idea here is that rather than showing one 'best' tree that subsequent comparative methods will assume is the true tree (i.e., known without error), we instead show the probabilistic envelope of reconstructed evolutionary histories.  Our strategy thus reflects the uncertainty inherent in our DNA data, and with efforts to reconstruct the past from the present in general (uncertain models of molecular evolution, incomplete data sampling, etc.).
 
-<br>
-
 #### **Movies of the credible sets of Mammalia trees (sample of 100 trees each of 10,000 total)**   
    **NOTE:** For the completed tree sets, the location of the 1813 imputed species are shown (missing DNA; 5911 species total).
 
