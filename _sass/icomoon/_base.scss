@@ -28,9 +28,6 @@
 }
 
 // Base styling for individual icons
-.icon-googleplus:before {
-	content: "\e600";
-}
 .icon-twitter:before {
 	content: "\e602";
 }
@@ -53,9 +50,6 @@
 }
 
 // Colors for individual icons with the :hover psuedoclass
-.icon-googleplus:hover {
-	color: #dd4b39;
-}
 .icon-twitter:hover {
 	color: #4099FF;
 }
