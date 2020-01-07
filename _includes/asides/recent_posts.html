@@ -6,9 +6,9 @@
    	 	<dd>New Haven, CT, 06511 USA</dd>
 	</h3>
 
-  <h2>Latest news...</h2>
+  <h2>Latest news...</h2><h4><a href="">ARCHIVE</a></h4>
   <ul>
-    {% for post in site.posts limit:6 site.recent_posts %}
+    {% for post in site.posts limit:7 site.recent_posts %}
       <li>
         <a href="{{ site.baseurl }}{{ post.url }}">{% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{ post.title }}{% endif %}</a>
       </li>
