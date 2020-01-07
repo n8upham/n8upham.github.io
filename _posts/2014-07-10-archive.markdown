@@ -26,10 +26,10 @@ date: 2014-07-10
 'Evolution of the largest mammalian genome' article is published in GBE</a></h2>
 **Jul 28, 2017**
 
-<h2><a href="https://n8u.org/blog/2016/Presented-at-Asilomar"></a>"ASN 2016 talk on new supermatrix phylogeny of Mammalia"</h2>
+<h2><a href="https://n8u.org/blog/2016/Presented-at-Asilomar">"ASN 2016 talk on new supermatrix phylogeny of Mammalia"</a></h2>
 **Jan 13, 2016**
 
-<h2><a href="https://n8u.org/blog/2015/VizRat_crowdfunding"></a>"Raised nearly $1k in crowdfunds for genome expansion work"</h2>
+<h2><a href="https://n8u.org/blog/2015/VizRat_crowdfunding">"Raised nearly $1k in crowdfunds for genome expansion work"</a></h2>
 **Dec 31, 2015**
 
 <h2><a href="https://n8u.org/blog/2015/New-article-in-sarem-book">"New article: Genus-level timetree for caviomorph rodents"</a></h2>
