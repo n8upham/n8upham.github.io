@@ -1,9 +1,14 @@
 ---
-layout: default
-title: Archive
-weight: 4
-incognito: true
+layout: post
+title: "ARCHIVE"
+date: 1984-07-10
+sitemap:
+  lastmod: 1984-07-10
+  priority: 0.5
+  changefreq: monthly
+  exclude: 'no'
 ---
+
 
 <h2>"Mammal tree published in PLOS Biology"</h2>
 **2019-12-04**
