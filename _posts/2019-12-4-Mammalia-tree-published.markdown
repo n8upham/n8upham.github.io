@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mammal tree published in PLOS Biology"
+title: "Mammal tree in PLOS Biology"
 date: 2019-12-04
 sitemap:
   lastmod: 2019-12-04
