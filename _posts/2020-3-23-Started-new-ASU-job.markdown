@@ -15,6 +15,6 @@ This position is made possible by special initiative funds of the BioKIC for fur
 
 Look for much more from me in regards to the ASU Mammalia collections in the coming months. For now, lets all stay healthy & isolated in this Covid-19 pandemic -- or as ASU President Michael Crow told us: "[Stay frosty!](https://www.youtube.com/watch?v=ht2RJvc4ExI)"
 
-<img src="firstDayAtASU.jpg"/>
+<img src="https://n8upham.github.io/images/firstDayAtASU.jpg"/>
 
 
