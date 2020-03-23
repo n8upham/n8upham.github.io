@@ -9,11 +9,11 @@ sitemap:
   exclude: 'no'
 ---
 
-Great news amid an otherwise hectic beginning to 2020: I started a new faculty job at Arizona State University! My new title is officially Assistant Research Professor and Associate Curator of Mammals, as affiliated within the [School of Life Sciences](https://sols.asu.edu/) and [Biodiversity Knowledge Integration Center](https://biokic.asu.edu/). 
+Great news amid an otherwise hectic beginning to 2020: I started a new faculty job at [Arizona State University](https://www.asu.edu/about)! My new title is officially Assistant Research Professor and Associate Curator of Mammals, as affiliated within the [School of Life Sciences](https://sols.asu.edu/) and [Biodiversity Knowledge Integration Center](https://biokic.asu.edu/) (BioKIC). 
 
-This position is made possible by special initiative funds of the BioKIC for furthering domain-specific goals in integrative taxonomy. My domain of course being mammals! Really excited to jumping into this position, especially with the added stewardship of the [ASU Mammal Collections](https://biokic.asu.edu/collections/mammalogy-collection). Its a small collection of ~9,000 current specimens ([query them in our Symbiota portal here!](https://csvcoll.org/portal/index.php)), but with great potential to grow, especially in association with the new [NEON Biorepository](https://www.neonscience.org/data/samples-specimens/neon-biorepository-asu) being hosted at ASU.
+This position is made possible by special initiative funds of the BioKIC for furthering domain-specific goals in integrative taxonomy. My domain of course being mammals! Really excited to jumping into this position, especially with the added stewardship of the [ASU Mammal Collections](https://biokic.asu.edu/collections/mammalogy-collection). Its a small collection of ~9,000 current specimens ([query them in our Symbiota portal here!](https://csvcoll.org/portal/index.php)), but with great potential to grow, especially in association with the new [NEON Biorepository](https://www.neonscience.org/data/samples-specimens/neon-biorepository-asu) being hosted at ASU. Major kudos to my new colleagues [Nico Franz](https://sols.asu.edu/nico-franz) and [Beckett Sterner](https://sols.asu.edu/beckett-sterner) for enabling my smooth transition to ASU.
 
-Look for much more from me in regards to the ASU Mammalia collections in the coming months. For now, lets all stay healthy & isolated in this Covid-19 pandemic -- or as ASU President Michael Crow told us: "[Stay frosty!](https://www.youtube.com/watch?v=ht2RJvc4ExI)"
+Look for much more from me in regards to the ASU Mammalia collections in the coming months. For now, lets all stay healthy & properly isolated in this Covid-19 pandemic -- or as ASU President Michael Crow told us: "[Stay frosty!](https://www.youtube.com/watch?v=ht2RJvc4ExI)"
 
 <img src="https://n8upham.github.io/images/firstDayAtASU.jpg"/>
 
