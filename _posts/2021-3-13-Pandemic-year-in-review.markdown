@@ -9,7 +9,7 @@ sitemap:
   exclude: 'no'
 ---
 
-What a journey! Today marks one-year from when I last did an in-person seminar -- to the Medzhitov Lab at Yale University in a giant socially-distanced room (see inset photo). We could all sense the impending changes, but could not have fathomed the extent to which they would transform society.
+What a journey! Today marks one year from when I last did an in-person seminar -- to the Medzhitov Lab at Yale University in a giant socially-distanced room (see inset photo). We could all sense the impending changes, but could not have fathomed the extent to which they would transform society.
 
 <img src="https://n8upham.github.io/images/Medzhitov_seminar_13Mar2020.jpg"/>
 
