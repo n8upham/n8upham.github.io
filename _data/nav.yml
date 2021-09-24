@@ -1,6 +1,9 @@
 - title: "home"
   href: "/"
 
+- title: "people"
+  href: "/people/"
+
 - title: "pubs"
   href: "/pubs/"
 
