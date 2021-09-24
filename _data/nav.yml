@@ -1,8 +1,8 @@
 - title: "home"
   href: "/"
 
-- title: "peeps"
-  href: "/peeps/"
+- title: "ppl"
+  href: "/ppl/"
 
 - title: "pubs"
   href: "/pubs/"
@@ -21,8 +21,8 @@
 - title: "teaching"
   href: "/teaching/"
       
-- title: "outreach"
-  href: "/outreach/"
+- title: "media"
+  href: "/media/"
   
 - title: "field"
   href: "/field/"
