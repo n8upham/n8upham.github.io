@@ -41,7 +41,7 @@ Then came Louca &amp; Pennell 2020, which demonstrated that — in the absence o
 
 <table class="image" style="float:right; margin-left: 2em">
 <caption align="bottom"></caption>
-<tr><td><img border="0" src="https://pbs.twimg.com/media/E7kTnuiVUAExuXV.jpg" width="300px" style="float:right; margin-top: 2em"/>
+<tr><td><img border="0" src="https://pbs.twimg.com/media/E7kTnuiVUAExuXV.jpg" width="400px" style="float:right; margin-top: 2em"/>
 	</td></tr>
 </table>
 
@@ -68,42 +68,21 @@ Does that mean timetrees carry no information? NO! <br />
 <br />
 The timetree signal is progressively less biased toward the present, as the increasingly reliable signal of rate-regime shifts also shows -- we find the biggest shifts in Ctenomys tuco-tucos (Q) and Pteropus flying foxes (J)<br />
 
-<table class="image" style="float:right; margin-left: 2em">
-<caption align="bottom"></caption>
-<tr><td><img border="0" src="https://pbs.twimg.com/media/E7kXAOqVIAAwxNB.jpg" width="300px" style="float:right; margin-top: 2em"/>
-	</td></tr>
-</table>
 
 
 Even cooler, those pulled speciation rates are comparable to species-level 'tip rates' of speciation when summarized at the clade level (numbers correspond to Fig 1 clades).<br />
 <br />
 Bonus: Tip rates are easy to calculate when a timetree is sampled for all modern species.<br />
 
-<table class="image" style="float:right; margin-left: 2em">
-<caption align="bottom"></caption>
-<tr><td><img border="0" src="https://pbs.twimg.com/media/E7kYKE0VoAI5gSV.png" width="300px" style="float:right; margin-top: 2em"/>
-	</td></tr>
-</table>
-
 
 Building on that, we show that skewness in the clade-level distribution of those tip rates carries information about the extent of past rate shifts in that clade (as detected by summing clade rate shifts from BAMM).<br />
 
-<table class="image" style="float:right; margin-left: 2em">
-<caption align="bottom"></caption>
-<tr><td><img border="0" src="https://pbs.twimg.com/media/E7kYpswVEAE1O_L.png" width="300px" style="float:right; margin-top: 2em"/>
-	</td></tr>
-</table>
+
 
 
 This make intuitive sense-- tip rates are measuring the per-species branching process, and deviations from that 'normal' process will show up as long tails of skewness on the right or left side.<br />
 <br />
 E.g., clade 18 has the tuco-tuco rate shift, and clade 12 the flying fox one.<br />
-
-<table class="image" style="float:right; margin-left: 2em">
-<caption align="bottom"></caption>
-<tr><td><img border="0" src="https://pbs.twimg.com/media/E7kZXhMVgAYDSEv.jpg" width="300px" style="float:right; margin-top: 2em"/>
-	</td></tr>
-</table>
 
 
 Overall, students take note: this entire paper grew from "Fig. 2" in our 2020 bioRxiv (<a class="entity-url" data-preview="true" href="https://www.biorxiv.org/lookup/doi/10.1101/504803">biorxiv.org/lookup/doi/10.…</a>) and so is a testament to (a) persistence, &amp; (b) what happens when helpful reviewers ask questions.<br />
@@ -113,3 +92,28 @@ Grateful to co-authors <a class="entity-mention" href="https://twitter.com/JakeE
 
 
 Also, note our code share via Github here: <a class="entity-url" data-preview="true" href="https://github.com/n8upham/MamDiv-fossil-vs-timetree">github.com/n8upham/MamDiv…</a><br />
+
+
+<table class="image" style="float:right; margin-left: 2em">
+<caption align="bottom"></caption>
+<tr><td><img border="0" src="https://pbs.twimg.com/media/E7kXAOqVIAAwxNB.jpg" width="300px" style="float:right; margin-top: 2em"/>
+	</td></tr>
+</table>
+
+<table class="image" style="float:right; margin-left: 2em">
+<caption align="bottom"></caption>
+<tr><td><img border="0" src="https://pbs.twimg.com/media/E7kYKE0VoAI5gSV.png" width="300px" style="float:right; margin-top: 2em"/>
+	</td></tr>
+</table>
+
+<table class="image" style="float:right; margin-left: 2em">
+<caption align="bottom"></caption>
+<tr><td><img border="0" src="https://pbs.twimg.com/media/E7kYpswVEAE1O_L.png" width="300px" style="float:right; margin-top: 2em"/>
+	</td></tr>
+</table>
+
+<table class="image" style="float:right; margin-left: 2em">
+<caption align="bottom"></caption>
+<tr><td><img border="0" src="https://pbs.twimg.com/media/E7kZXhMVgAYDSEv.jpg" width="300px" style="float:right; margin-top: 2em"/>
+	</td></tr>
+</table>
