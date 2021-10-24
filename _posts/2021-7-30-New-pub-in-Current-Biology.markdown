@@ -36,7 +36,7 @@ As this simulation shows, its really the "Tree of Life &amp; Death" (&amp; taxes
 
 Thoughtful people long knew that extinct lineages were ignored when reconstructing trees of life (phylogenies, called 'timetrees' when time-calibrated), but nevertheless we've tried to find creative ways to query deep time despite sampling bias<br />
 <br />
-Then came Louca &amp; Pennell 2020, which demonstrated that — in the absence of additional fossil or demographic information, any given timetree may be <b>equally explained/b> by an infinite number of diversification scenarios.<br />
+Then came Louca &amp; Pennell 2020, which demonstrated that — in the absence of additional fossil or demographic information, any given timetree may be <b>equally explained</b> by an infinite number of diversification scenarios.<br />
 
 
 In response, we wanted to see how our VertLife mammal timetrees (<a class="entity-url" data-preview="true" href="http://vertlife.org/data/mammals/">vertlife.org/data/mammals/</a>) compared to fossil genus durations. We quantified the 'pulling' of unsampled extinction events on the timetrees: When is the bias most extreme vs. when do extinctions not matter as much?<br />
