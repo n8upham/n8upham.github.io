@@ -12,23 +12,17 @@ sitemap:
 
 
 
-Glad to share that I'm <a class="entity-mention" href="https://twitter.com/ReederLab">@ReederLab</a> &amp; I are leading a new NIH R21 project to liberate mammal-to-virus data from publications -- and then annotate them w/ supporting evidence to strengthen spillover risk models<br />
-<br />
-Our approach is newly outlined in <a class="entity-mention" href="https://twitter.com/TheLancetPlanet">@TheLancetPlanet</a> 
-
-
+Glad to share that I'm leading a new NIH R21 project to liberate mammal-to-virus data from publications -- and then annotate them w/ supporting evidence to strengthen spillover risk models. Our approach is newly outlined in a Viewpoint for <a class="entity-mention" href="https://twitter.com/TheLancetPlanet">@TheLancetPlanet</a>. 
 
 PDF: <a class="entity-url" data-preview="true" href="https://www.thelancet.com/action/showPdf?pii=S2542-5196%2821%2900196-0">thelancet.com/action/showPdf…</a><br />
 DOI: <a class="entity-url" data-preview="true" href="https://doi.org/10.1016/S2542-5196(21)00196-0">https://doi.org/10.1016/S2542-5196(21)00196-0</a><br />
-Tweet-storm: <a class="entity-url" data-preview="true" href="https://twitter.com/n8_upham/status/1450596627685670912">twitter.com/n8_upham/…</a><br />
-
+Tweets: <a class="entity-url" data-preview="true" href="https://twitter.com/n8_upham/status/1450596627685670912">twitter.com/n8_upham/…</a><br />
 
 <table class="image" style="float:right; margin-left: 2em">
 <caption align="bottom"></caption>
 <tr><td><img border="0" src="https://pbs.twimg.com/media/FCF9FDtVkAAtLvd.jpg" height="300px" style="float:right; margin-top: 2em"/>
 	</td></tr>
 </table>
-
 
 The grant <a href="https://reporter.nih.gov/search/qD_Mp36HUkKM1D-Q4pjiLg/project-details/10289637">"Intelligently predicting viral spillover risks from bats and other wild mammals"</a> is based from ASU's School of Life Sciences with co-I <a class="entity-mention" href="https://twitter.com/beckettws">Beckett Sterner</a> &amp; team including <a class="entity-mention" href="https://twitter.com/Varsani_lab">Arvind Varsani</a> <a class="entity-mention" href="https://twitter.com/taxonbytes">Nico Franz</a> <a class="entity-mention" href="https://twitter.com/pguptanz">Prashant Gupta</a> w/ <a class="entity-mention" href="https://twitter.com/GlobalBiotic">Jorrit Poelen of GloBI</a> &amp; <a class="entity-mention" href="https://twitter.com/plazi_ch">Donat Agosti of Plazi</a>.
 <br />
