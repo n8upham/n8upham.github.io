@@ -59,7 +59,7 @@ Sharing the resulting improved host-virus data for continued re-use is the prima
 
 Grateful to the <a class="entity-mention" href="https://twitter.com/eurotaxonomy">CETAF</a> / <a class="entity-mention" href="https://twitter.com/DiSSCoEU">DiSSCo</a> Taskforce for initiating these efforts, including co-authors.  Here is the full citation:
 
-* Upham N.S., Poelen J.H., Paul D., Groom Q.J., Simmons N.B., Vanhove M.P.M., Bertolino S., Reeder D.M., Bastos-Silveira C., Sen A., Sterner B., Franz N.M., Guidoti M., Penev L., Agosti D. 2021. Liberating host–virus knowledge from biological dark data. The Lancet Planetary Health. https://doi.org/10.1016/S2542-5196(21)00196-0
+* Upham N.S., Poelen J.H., Paul D., Groom Q.J., Simmons N.B., Vanhove M.P.M., Bertolino S., Reeder D.M., Bastos-Silveira C., Sen A., Sterner B., Franz N.M., Guidoti M., Penev L., Agosti D. 2021. Liberating host–virus knowledge from biological dark data. The Lancet Planetary Health. <a href="https://doi.org/10.1016/S2542-5196(21)00196-0">https://doi.org/10.1016/S2542-5196(21)00196-0</a>
 
 <br />
 
