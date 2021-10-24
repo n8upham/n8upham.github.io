@@ -36,7 +36,7 @@ The grant <a href="https://reporter.nih.gov/search/qD_Mp36HUkKM1D-Q4pjiLg/projec
 
 The problem is that existing host-virus data is often disconnected from evidence of either interaction (e.g., assay type, sample size) or taxonomy (e.g., voucher specimen, concept of species), which makes it hard to accurately model host-virus sharing w/ data collected long ago.<br />
 
-Our solution is two-part: (1) liberate <a class="entity-hashtag" href="/hashtag/taxoknowledge">#taxoknowledge</a> from pubs w/ automated tools of <a href="http://plazi.org/">Plazi.org</a> &amp; connect it w/ current taxonomy of <a href="https://www.mammaldiversity.org/">The Mammal Diversity Database</a> then (2) use the resulting taxonomic 'passkey' to search &amp; unlock host-virus evidence in pubs for linking as digital knowledge.<br />
+Our solution is two-part: (1) liberate <a class="entity-hashtag" href="/hashtag/taxoknowledge">#taxoknowledge</a> from pubs w/ automated tools of <a href="http://plazi.org/">Plazi.org</a> &amp; connect it w/ current taxonomy of the <a href="https://www.mammaldiversity.org/">Mammal Diversity Database</a> then (2) use the resulting taxonomic 'passkey' to search &amp; unlock host-virus evidence in pubs for linking as digital knowledge.<br />
 
 
 We outline our taxonomy-centric approach in the <a class="entity-mention" href="https://twitter.com/TheLancetPlanet">@TheLancetPlanet</a> article (<a class="entity-url" data-preview="true" href="https://doi.org/10.1016/S2542-5196(21)00196-0">doi.org/10.1016/S2542-…</a>), emphasizing that the 'unlocking dark data' approach is inefficient vs. the 'created connected' publishing of <a href="https://pensoft.net/index.php?">Pensoft Publishers</a>.<br />
@@ -58,7 +58,7 @@ Sharing the resulting improved host-virus data for continued re-use is the prima
 
 Grateful to the <a class="entity-mention" href="https://twitter.com/eurotaxonomy">CETAF</a> / <a class="entity-mention" href="https://twitter.com/DiSSCoEU">DiSSCo</a> Taskforce for initiating these efforts, including co-authors.  Here is the full citation:
 
-* Upham N.S., Poelen J.H., Paul D., Groom Q.J., Simmons N.B., Vanhove M.P.M., Bertolino S., Reeder D.M., Bastos-Silveira C., Sen A., Sterner B., Franz N.M., Guidoti M., Penev L., Agosti D. 2021. Liberating host–virus knowledge from biological dark data. The Lancet Planetary Health. <a href="https://doi.org/10.1016/S2542-5196(21)00196-0">https://doi.org/10.1016/S2542-5196(21)00196-0</a>
+* <b>Upham N.S.</b>, Poelen J.H., Paul D., Groom Q.J., Simmons N.B., Vanhove M.P.M., Bertolino S., Reeder D.M., Bastos-Silveira C., Sen A., Sterner B., Franz N.M., Guidoti M., Penev L., Agosti D. 2021. Liberating host–virus knowledge from biological dark data. The Lancet Planetary Health. <a href="https://doi.org/10.1016/S2542-5196(21)00196-0">https://doi.org/10.1016/S2542-5196(21)00196-0</a>
 
 <br />
 
