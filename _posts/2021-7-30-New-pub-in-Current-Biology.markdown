@@ -39,7 +39,7 @@ Then came Louca &amp; Pennell 2020, which demonstrated that — in the absence o
 
 <table class="image" style="float:right; margin-left: 2em">
 <caption align="top">In response, we wanted to see how our VertLife mammal timetrees (<a class="entity-url" data-preview="true" href="http://vertlife.org/data/mammals/">vertlife.org/data/mammals/</a>) compared to fossil genus durations. We quantified the 'pulling' of unsampled extinction events on the timetrees: When is the bias most extreme vs. when do extinctions not matter as much?</caption>
-<tr><td><img border="0" src="https://pbs.twimg.com/media/E7kTnuiVUAExuXV.jpg" width="300px" style="float:left; margin-top: 2em"/>
+<tr><td><img border="0" src="https://pbs.twimg.com/media/E7kTnuiVUAExuXV.jpg" width="300px" align="left" style="margin-top: 2em"/>
 	</td></tr>
 </table>
 
