@@ -34,7 +34,7 @@ Goal: Improve existing host-virus data, which to date has largely been focused o
 </table>
 
 
-The problem is that existing host-virus data is often disconnected from evidence of either interaction (eg assay type, sample size) or taxonomy (eg voucher specimen, concept of species), which makes it hard to accurately model host-virus sharing w/ data collected long ago.<br />
+The problem is that existing host-virus data is often disconnected from evidence of either interaction (e.g., assay type, sample size) or taxonomy (e.g., voucher specimen, concept of species), which makes it hard to accurately model host-virus sharing w/ data collected long ago.<br />
 
 Our solution is two-part: (1) liberate <a class="entity-hashtag" href="/hashtag/taxoknowledge">#taxoknowledge</a> from pubs w/ automated tools of <a href="http://plazi.org/">Plazi.org</a> &amp; connect it w/ current taxonomy of <a href="https://www.mammaldiversity.org/">The Mammal Diversity Database</a> then (2) use the resulting taxonomic 'passkey' to search &amp; unlock host-virus evidence in pubs for linking as digital knowledge.<br />
 
@@ -58,7 +58,7 @@ Sharing the resulting improved host-virus data for continued re-use is the prima
 
 Grateful to the <a class="entity-mention" href="https://twitter.com/eurotaxonomy">CETAF</a> / <a class="entity-mention" href="https://twitter.com/DiSSCoEU">DiSSCo</a> Taskforce for initiating these efforts, including co-authors.  Here is the full citation:
 
- Upham N.S., Poelen J.H., Paul D., Groom Q.J., Simmons N.B., Vanhove M.P.M., Bertolino S., Reeder D.M., Bastos-Silveira C., Sen A., Sterner B., Franz N.M., Guidoti M., Penev L., Agosti D. 2021. Liberating host–virus knowledge from biological dark data. The Lancet Planetary Health. https://doi.org/10.1016/S2542-5196(21)00196-0
+* Upham N.S., Poelen J.H., Paul D., Groom Q.J., Simmons N.B., Vanhove M.P.M., Bertolino S., Reeder D.M., Bastos-Silveira C., Sen A., Sterner B., Franz N.M., Guidoti M., Penev L., Agosti D. 2021. Liberating host–virus knowledge from biological dark data. The Lancet Planetary Health. https://doi.org/10.1016/S2542-5196(21)00196-0
 
 <br />
 
