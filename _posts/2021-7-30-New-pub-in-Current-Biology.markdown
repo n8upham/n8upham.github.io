@@ -11,9 +11,7 @@ sitemap:
 
 
 
-Glad to share our work in <a class="entity-mention" href="https://twitter.com/CurrentBiology">@CurrentBiology</a> comparing the fossil record &amp; molecular phylogeny for Mammalia over last 100-million yrs.<br />
-<br />
-Phylogeny misses extinctions 66-56 Mya, but is remarkably reliable from 10M to present-day<br />
+Glad to share our work in <a class="entity-mention" href="https://twitter.com/CurrentBiology">@CurrentBiology</a> comparing the fossil record &amp; molecular phylogeny for Mammalia over last 100-million yrs. We find that the extant phylogeny misses extinctions 66-56 Mya, but is remarkably reliable from 10 Mya to the present-day. <br />
 <br />
 PDF: <a class="entity-url" data-preview="true" href="https://authors.elsevier.com/a/1dUcI3QW8RwpC8">authors.elsevier.com/a/1dUcI3QW8Rwp…</a><br />
 DOI: <a class="entity-url" data-preview="true" href="https://doi.org/10.1016/j.cub.2021.07.012">doi.org/10.1016/j.cub.…</a><br />
