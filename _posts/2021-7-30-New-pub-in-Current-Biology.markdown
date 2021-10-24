@@ -101,7 +101,7 @@ E.g., clade 18 has the tuco-tuco rate shift, and clade 12 the flying fox one.<br
 
 <table class="image" style="float:right; margin-left: 2em">
 <caption align="bottom"></caption>
-<tr><td><img border="0" src="https://pbs.twimg.com/media/E7kZXhMVgAYDSEv.jpg" width="300px"" style="float:right; margin-top: 2em"/>
+<tr><td><img border="0" src="https://pbs.twimg.com/media/E7kZXhMVgAYDSEv.jpg" width="300px" style="float:right; margin-top: 2em"/>
 	</td></tr>
 </table>
 
