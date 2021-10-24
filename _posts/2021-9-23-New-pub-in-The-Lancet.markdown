@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Perspective published in <i>The Lancet Planetary Health</i>"
+title: "Perspective in <i>The Lancet Planetary Health</i>"
 date: 2021-9-23
 sitemap:
   lastmod: 2021-9-23
