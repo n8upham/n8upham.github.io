@@ -15,6 +15,8 @@ Glad to share our work in <a class="entity-mention" href="https://twitter.com/Cu
 <br />
 PDF: <a class="entity-url" data-preview="true" href="https://authors.elsevier.com/a/1dUcI3QW8RwpC8">authors.elsevier.com/a/1dUcI3QW8Rwp…</a><br />
 DOI: <a class="entity-url" data-preview="true" href="https://doi.org/10.1016/j.cub.2021.07.012">doi.org/10.1016/j.cub.…</a><br />
+Tweet-storm: <a class="entity-url" data-preview="true" href="https://twitter.com/n8_upham/status/1421201003752214529">twitter.com/n8_upham/…</a><br />
+
 
 <table class="image" style="float:right; margin-left: 2em">
 <caption align="bottom"></caption>
