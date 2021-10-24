@@ -52,7 +52,7 @@ The mammal fossil record clearly captures a spike in origination after the K-Pg 
 
 <table class="image" style="float:right; margin-left: 2em">
 <caption align="bottom"></caption>
-<tr><td><img border="0" src="https://pbs.twimg.com/media/E7kUJAeVIAEbKrX.png" height="300px" style="float:right; margin-top: 2em"/>
+<tr><td><img border="0" src="https://pbs.twimg.com/media/E7kUJAeVIAEbKrX.png" height="100px" style="float:right; margin-top: 2em"/>
 	</td></tr>
 </table>
 
@@ -61,7 +61,7 @@ So, how in the heck can we use extant timetrees to query _ancient_ patterns of d
 
 <table class="image" style="float:right; margin-left: 2em">
 <caption align="bottom"></caption>
-<tr><td><img border="0" src="https://pbs.twimg.com/media/E7kWQf2VkAABwmt.png" height="300px" style="float:right; margin-top: 2em"/>
+<tr><td><img border="0" src="https://pbs.twimg.com/media/E7kWQf2VkAABwmt.png" height="100px" style="float:right; margin-top: 2em"/>
 	</td></tr>
 </table>
 
@@ -72,7 +72,7 @@ The timetree signal is progressively less biased toward the present, as the incr
 
 <table class="image" style="float:right; margin-left: 2em">
 <caption align="bottom"></caption>
-<tr><td><img border="0" src="https://pbs.twimg.com/media/E7kXAOqVIAAwxNB.jpg" height="300px" style="float:right; margin-top: 2em"/>
+<tr><td><img border="0" src="https://pbs.twimg.com/media/E7kXAOqVIAAwxNB.jpg" height="100px" style="float:right; margin-top: 2em"/>
 	</td></tr>
 </table>
 
@@ -83,7 +83,7 @@ Bonus: Tip rates are easy to calculate when a timetree is sampled for all modern
 
 <table class="image" style="float:right; margin-left: 2em">
 <caption align="bottom"></caption>
-<tr><td><img border="0" src="https://pbs.twimg.com/media/E7kYKE0VoAI5gSV.png" height="300px" style="float:right; margin-top: 2em"/>
+<tr><td><img border="0" src="https://pbs.twimg.com/media/E7kYKE0VoAI5gSV.png" height="100px" style="float:right; margin-top: 2em"/>
 	</td></tr>
 </table>
 
@@ -92,7 +92,7 @@ Building on that, we show that skewness in the clade-level distribution of those
 
 <table class="image" style="float:right; margin-left: 2em">
 <caption align="bottom"></caption>
-<tr><td><img border="0" src="https://pbs.twimg.com/media/E7kYpswVEAE1O_L.png" height="300px" style="float:right; margin-top: 2em"/>
+<tr><td><img border="0" src="https://pbs.twimg.com/media/E7kYpswVEAE1O_L.png" height="100px" style="float:right; margin-top: 2em"/>
 	</td></tr>
 </table>
 
@@ -103,7 +103,7 @@ E.g., clade 18 has the tuco-tuco rate shift, and clade 12 the flying fox one.<br
 
 <table class="image" style="float:right; margin-left: 2em">
 <caption align="bottom"></caption>
-<tr><td><img border="0" src="https://pbs.twimg.com/media/E7kZXhMVgAYDSEv.jpg" height="300px" style="float:right; margin-top: 2em"/>
+<tr><td><img border="0" src="https://pbs.twimg.com/media/E7kZXhMVgAYDSEv.jpg" height="100px" style="float:right; margin-top: 2em"/>
 	</td></tr>
 </table>
 
