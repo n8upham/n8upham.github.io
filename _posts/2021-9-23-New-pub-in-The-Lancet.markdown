@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Perspective in <i>The Lancet Planetary Health</i>"
+title: "NIH R21 award outlined in <i>The Lancet Planetary Health</i>"
 date: 2021-9-23
 sitemap:
   lastmod: 2021-9-23
@@ -12,7 +12,7 @@ sitemap:
 
 
 
-Glad to share that <a class="entity-mention" href="https://twitter.com/ReederLab">@ReederLab</a> &amp; I are leading a new NIH R21 project to liberate mammal-to-virus data from publications -- and then annotate them w/ supporting evidence to strengthen spillover risk models<br />
+Glad to share that I'm <a class="entity-mention" href="https://twitter.com/ReederLab">@ReederLab</a> &amp; I are leading a new NIH R21 project to liberate mammal-to-virus data from publications -- and then annotate them w/ supporting evidence to strengthen spillover risk models<br />
 <br />
 Our approach is newly outlined in <a class="entity-mention" href="https://twitter.com/TheLancetPlanet">@TheLancetPlanet</a> 
 
