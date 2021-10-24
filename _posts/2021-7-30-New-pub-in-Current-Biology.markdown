@@ -19,7 +19,7 @@ PDF: <a class="entity-url" data-preview="true" href="https://authors.elsevier.co
 DOI: <a class="entity-url" data-preview="true" href="https://doi.org/10.1016/j.cub.2021.07.012">doi.org/10.1016/j.cub.…</a><br />
 
 <table class="image" style="float:right; margin-left: 2em">
-<caption align="bottom">Fig. 1 in the article.</caption>
+<caption align="bottom"></caption>
 <tr><td><img border="0" src="https://pbs.twimg.com/media/E7kTkSiUYAEF4A9.jpg" height="300px" style="float:right; margin-top: 2em"/>
 	</td></tr>
 </table>
