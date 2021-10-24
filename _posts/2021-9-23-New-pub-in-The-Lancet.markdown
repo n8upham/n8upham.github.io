@@ -14,8 +14,8 @@ sitemap:
 
 Glad to share that I'm leading a new NIH R21 project to liberate mammal-to-virus data from publications -- and then annotate them w/ supporting evidence to strengthen spillover risk models. Our approach is newly outlined in a Viewpoint for <a class="entity-mention" href="https://twitter.com/TheLancetPlanet">@TheLancetPlanet</a>. 
 
-ASU news article: <a href="https://news.asu.edu/20211019-biological-dark-data-times-viral-spillover">news.asu.edu/20211019-biolo…</a> <span class="nop nop-end"><br />
 PDF / DOI: <a class="entity-url" data-preview="true" href="https://doi.org/10.1016/S2542-5196(21)00196-0">https://doi.org/10.1016/S2542-5196(21)00196-0</a><br />
+ASU news article: <a href="https://news.asu.edu/20211019-biological-dark-data-times-viral-spillover">news.asu.edu/20211019-biolo…</a> <span class="nop nop-end"><br />
 Tweets: <a class="entity-url" data-preview="true" href="https://twitter.com/n8_upham/status/1450596627685670912">twitter.com/n8_upham/…</a><br />
 
 <table class="image" style="float:right; margin-left: 2em">
