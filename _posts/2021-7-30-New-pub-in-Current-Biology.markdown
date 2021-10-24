@@ -93,27 +93,12 @@ Grateful to co-authors <a class="entity-mention" href="https://twitter.com/JakeE
 
 Also, note our code share via Github here: <a class="entity-url" data-preview="true" href="https://github.com/n8upham/MamDiv-fossil-vs-timetree">github.com/n8upham/MamDiv…</a><br />
 
+<img border="0" src="https://pbs.twimg.com/media/E7kXAOqVIAAwxNB.jpg" width="300px" style="float:left; margin-top: 2em"/>
 
-<table class="image" style="float:right; margin-left: 2em">
-<caption align="bottom"></caption>
-<tr><td><img border="0" src="https://pbs.twimg.com/media/E7kXAOqVIAAwxNB.jpg" width="300px" style="float:right; margin-top: 2em"/>
-	</td></tr>
-</table>
 
-<table class="image" style="float:right; margin-left: 2em">
-<caption align="bottom"></caption>
-<tr><td><img border="0" src="https://pbs.twimg.com/media/E7kYKE0VoAI5gSV.png" width="300px" style="float:right; margin-top: 2em"/>
-	</td></tr>
-</table>
+<img border="0" src="https://pbs.twimg.com/media/E7kYKE0VoAI5gSV.png" width="300px" style="float:right; margin-top: 2em"/>
 
-<table class="image" style="float:right; margin-left: 2em">
-<caption align="bottom"></caption>
-<tr><td><img border="0" src="https://pbs.twimg.com/media/E7kYpswVEAE1O_L.png" width="300px" style="float:right; margin-top: 2em"/>
-	</td></tr>
-</table>
 
-<table class="image" style="float:right; margin-left: 2em">
-<caption align="bottom"></caption>
-<tr><td><img border="0" src="https://pbs.twimg.com/media/E7kZXhMVgAYDSEv.jpg" width="300px" style="float:right; margin-top: 2em"/>
-	</td></tr>
-</table>
+<img border="0" src="https://pbs.twimg.com/media/E7kYpswVEAE1O_L.png" width="300px" style="float:left; margin-top: 2em"/>
+
+<img border="0" src="https://pbs.twimg.com/media/E7kZXhMVgAYDSEv.jpg" width="300px" style="float:right; margin-top: 2em"/>
