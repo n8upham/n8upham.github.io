@@ -38,25 +38,22 @@ Then came Louca &amp; Pennell 2020, which demonstrated that — in the absence o
 
 
 <table class="image" style="float:right; margin-left: 2em">
-<caption align="bottom">In response, we wanted to see how our VertLife mammal timetrees (<a class="entity-url" data-preview="true" href="http://vertlife.org/data/mammals/">vertlife.org/data/mammals/</a>) compared to fossil genus durations. We quantified the 'pulling' of unsampled extinction events on the timetrees: When is the bias most extreme vs. when do extinctions not matter as much?</caption>
-<tr><td><img border="0" src="https://pbs.twimg.com/media/E7kTnuiVUAExuXV.jpg" width="300px" style="float:right; margin-top: 2em"/>
+<caption align="top">In response, we wanted to see how our VertLife mammal timetrees (<a class="entity-url" data-preview="true" href="http://vertlife.org/data/mammals/">vertlife.org/data/mammals/</a>) compared to fossil genus durations. We quantified the 'pulling' of unsampled extinction events on the timetrees: When is the bias most extreme vs. when do extinctions not matter as much?</caption>
+<tr><td><img border="0" src="https://pbs.twimg.com/media/E7kTnuiVUAExuXV.jpg" width="300px" style="float:left; margin-top: 2em"/>
 	</td></tr>
 </table>
 
 
-The mammal fossil record clearly captures a spike in origination after the K-Pg boundary (66 Ma) and then a bigger spike in extinction prior to the Paleocene-Eocene Thermal Maximum (PETM) -- the result is that 2/3 of these Paleocene taxa did not leave modern descendants!<br />
 
 <table class="image" style="float:right; margin-left: 2em">
-<caption align="bottom"></caption>
+<caption align="top">The mammal fossil record clearly captures a spike in origination after the K-Pg boundary (66 Ma) and then a bigger spike in extinction prior to the Paleocene-Eocene Thermal Maximum (PETM) -- the result is that 2/3 of these Paleocene taxa did not leave modern descendants!</caption>
 <tr><td><img border="0" src="https://pbs.twimg.com/media/E7kUJAeVIAEbKrX.png" width="300px" style="float:right; margin-top: 2em"/>
 	</td></tr>
 </table>
 
 
-So, how in the heck can we use extant timetrees to query _ancient_ patterns of diversification around the famous K-Pg mass extinction? Our answer: we cannot. The 'pulling' bias of unsampled extinctions is too much. Timetrees need to sample fossils to query deep time.<br />
-
 <table class="image" style="float:right; margin-left: 2em">
-<caption align="bottom"></caption>
+<caption align="top">So, how in the heck can we use extant timetrees to query _ancient_ patterns of diversification around the famous K-Pg mass extinction? Our answer: we cannot. The 'pulling' bias of unsampled extinctions is too much. Timetrees need to sample fossils to query deep time.</caption>
 <tr><td><img border="0" src="https://pbs.twimg.com/media/E7kWQf2VkAABwmt.png" width="300px" style="float:right; margin-top: 2em"/>
 	</td></tr>
 </table>
