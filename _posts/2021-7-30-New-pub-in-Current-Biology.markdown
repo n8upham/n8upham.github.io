@@ -43,7 +43,7 @@ In response, we wanted to see how our VertLife mammal timetrees (<a class="entit
 
 <table class="image" style="float:right; margin-left: 2em">
 <caption align="bottom"></caption>
-<tr><td><img border="0" src="https://pbs.twimg.com/media/E7kTnuiVUAExuXV.jpg" height="300px" style="float:right; margin-top: 2em"/>
+<tr><td><img border="0" src="https://pbs.twimg.com/media/E7kTnuiVUAExuXV.jpg" width="80px" style="float:right; margin-top: 2em"/>
 	</td></tr>
 </table>
 
