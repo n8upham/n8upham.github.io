@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Current Biology article published"
+title: "<i>Current Biology</i> article published"
 date: 2021-7-30
 sitemap:
   lastmod: 2021-7-30
