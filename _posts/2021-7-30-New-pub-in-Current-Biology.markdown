@@ -39,7 +39,7 @@ Then came Louca &amp; Pennell 2020, which demonstrated that — in the absence o
 
 <table class="image" style="float:left; margin-left: 2em">
 <caption align="top">In response, we wanted to see how our VertLife mammal timetrees (<a class="entity-url" data-preview="true" href="http://vertlife.org/data/mammals/">vertlife.org/data/mammals/</a>) compared to fossil genus durations. We quantified the 'pulling' of unsampled extinction events on the timetrees: When is the bias most extreme vs. when do extinctions not matter as much?
-<tr><td><img border="0" src="https://pbs.twimg.com/media/E7kTnuiVUAExuXV.jpg" width="300px" style="float:left; margin-top: 2em"/>
+<tr><td><img border="0" src="https://pbs.twimg.com/media/E7kTnuiVUAExuXV.jpg" width="400px" style="float:left; margin-top: 2em"/>
 	</td></tr>
 </table>
 
@@ -47,56 +47,48 @@ Then came Louca &amp; Pennell 2020, which demonstrated that — in the absence o
 
 <table class="image" style="float:right; margin-left: 2em">
 <caption align="top">The mammal fossil record clearly captures a spike in origination after the K-Pg boundary (66 Ma) and then a bigger spike in extinction prior to the Paleocene-Eocene Thermal Maximum (PETM) -- the result is that 2/3 of these Paleocene taxa did not leave modern descendants!</caption>
-<tr><td><img border="0" src="https://pbs.twimg.com/media/E7kUJAeVIAEbKrX.png" width="300px" style="float:right; margin-top: 2em"/>
+<tr><td><img border="0" src="https://pbs.twimg.com/media/E7kUJAeVIAEbKrX.png" width="400px" style="float:right; margin-top: 2em"/>
 	</td></tr>
 </table>
 
 
-<table class="image" style="float:right; margin-left: 2em">
+<table class="image" style="float:left; margin-left: 2em">
 <caption align="top">So, how in the heck can we use extant timetrees to query _ancient_ patterns of diversification around the famous K-Pg mass extinction? Our answer: we cannot. The 'pulling' bias of unsampled extinctions is too much. Timetrees need to sample fossils to query deep time.</caption>
-<tr><td><img border="0" src="https://pbs.twimg.com/media/E7kWQf2VkAABwmt.png" width="300px" style="float:right; margin-top: 2em"/>
+<tr><td><img border="0" src="https://pbs.twimg.com/media/E7kWQf2VkAABwmt.png" width="400px" style="float:left; margin-top: 2em"/>
 	</td></tr>
 </table>
 
 
-Does that mean timetrees carry no information? NO! <br />
-<br />
-The timetree signal is progressively less biased toward the present, as the increasingly reliable signal of rate-regime shifts also shows -- we find the biggest shifts in Ctenomys tuco-tucos (Q) and Pteropus flying foxes (J)<br />
 
 <table class="image" style="float:right; margin-left: 2em">
-<caption align="bottom"></caption>
-<tr><td><img border="0" src="https://pbs.twimg.com/media/E7kXAOqVIAAwxNB.jpg" width="300px" style="float:right; margin-top: 2em"/>
+<caption align="bottom">Does that mean timetrees carry no information? NO! The timetree signal is progressively less biased toward the present, as the increasingly reliable signal of rate-regime shifts also shows -- we find the biggest shifts in Ctenomys tuco-tucos (Q) and Pteropus flying foxes (J).</caption>
+<tr><td><img border="0" src="https://pbs.twimg.com/media/E7kXAOqVIAAwxNB.jpg" width="400px" style="float:right; margin-top: 2em"/>
 	</td></tr>
 </table>
 
 
-Even cooler, those pulled speciation rates are comparable to species-level 'tip rates' of speciation when summarized at the clade level (numbers correspond to Fig 1 clades).<br />
-<br />
-Bonus: Tip rates are easy to calculate when a timetree is sampled for all modern species.<br />
 
-<table class="image" style="float:right; margin-left: 2em">
-<caption align="bottom"></caption>
-<tr><td><img border="0" src="https://pbs.twimg.com/media/E7kYKE0VoAI5gSV.png" width="300px" style="float:right; margin-top: 2em"/>
+
+<table class="image" style="float:left; margin-left: 2em">
+<caption align="bottom">Even cooler, those pulled speciation rates are comparable to species-level 'tip rates' of speciation when summarized at the clade level (numbers correspond to Fig 1 clades). Bonus: Tip rates are easy to calculate when a timetree is sampled for all modern species.</caption>
+<tr><td><img border="0" src="https://pbs.twimg.com/media/E7kYKE0VoAI5gSV.png" width="400px" style="float:left; margin-top: 2em"/>
 	</td></tr>
 </table>
 
 
-Building on that, we show that skewness in the clade-level distribution of those tip rates carries information about the extent of past rate shifts in that clade (as detected by summing clade rate shifts from BAMM).<br />
 
 <table class="image" style="float:right; margin-left: 2em">
-<caption align="bottom"></caption>
-<tr><td><img border="0" src="https://pbs.twimg.com/media/E7kYpswVEAE1O_L.png" width="300px" style="float:right; margin-top: 2em"/>
+<caption align="bottom">Building on that, we show that skewness in the clade-level distribution of those tip rates carries information about the extent of past rate shifts in that clade (as detected by summing clade rate shifts from BAMM).</caption>
+<tr><td><img border="0" src="https://pbs.twimg.com/media/E7kYpswVEAE1O_L.png" width="400px" style="float:right; margin-top: 2em"/>
 	</td></tr>
 </table>
 
 
-This make intuitive sense-- tip rates are measuring the per-species branching process, and deviations from that 'normal' process will show up as long tails of skewness on the right or left side.<br />
-<br />
-E.g., clade 18 has the tuco-tuco rate shift, and clade 12 the flying fox one.<br />
 
-<table class="image" style="float:right; margin-left: 2em">
-<caption align="bottom"></caption>
-<tr><td><img border="0" src="https://pbs.twimg.com/media/E7kZXhMVgAYDSEv.jpg" width="300px" style="float:right; margin-top: 2em"/>
+
+<table class="image" style="float:left; margin-left: 2em">
+<caption align="bottom">This make intuitive sense-- tip rates are measuring the per-species branching process, and deviations from that 'normal' process will show up as long tails of skewness on the right or left side. E.g., clade 18 has the tuco-tuco rate shift, and clade 12 the flying fox one.</caption>
+<tr><td><img border="0" src="https://pbs.twimg.com/media/E7kZXhMVgAYDSEv.jpg" width="400px" style="float:left; margin-top: 2em"/>
 	</td></tr>
 </table>
 
