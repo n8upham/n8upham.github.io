@@ -32,6 +32,9 @@ img.with-text {
 	float: left; 
 	max-width: 10%; 
 	height: auto; 
+	margin: 0 0 15px 20px; 
+	padding: 15px; 
+	text-align: left;
 }
 
 .clearfix:after {   content: " ";    visibility: hidden;   display: block;   height: 0;   clear: both; } 
