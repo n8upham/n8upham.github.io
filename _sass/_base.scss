@@ -40,6 +40,14 @@ img.with-text {
 .clearfix:after {   content: " ";    visibility: hidden;   display: block;   height: 0;   clear: both; } 
 
 
+/**
+ * Videos
+ */
+video {
+	max-width: 100%;
+    vertical-align: middle;
+}
+
 
 
 /**
