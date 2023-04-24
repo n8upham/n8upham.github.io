@@ -5,6 +5,7 @@ title: join us
 
 <article class="row post-content">
 
+<!--
 <head>
 	<title>Two Pictures Side by Side</title>
 	<style>
@@ -19,6 +20,40 @@ title: join us
 	</style>
 </head>
 <body>
+-->
+
+<head>
+	<title>Images with Captions on Hover</title>
+	<style>
+		.container {
+			display: flex;
+		}
+		.image {
+			position: relative;
+			margin: 10px;
+			flex: 1;
+		}
+		.caption {
+			display: none;
+			position: absolute;
+			top: 0;
+			left: 0;
+			right: 0;
+			bottom: 0;
+			background-color: rgba(0,0,0,0.7);
+			color: #fff;
+			font-size: 1.5rem;
+			padding: 10px;
+			opacity: 0;
+			transition: opacity 0.5s;
+		}
+		.image:hover .caption {
+			display: block;
+			opacity: 1;
+		}
+	</style>
+</head>
+
 
 <p></p>
 
@@ -29,7 +64,7 @@ title: join us
 
 <p></p>
 
-	<div class="img-container">
+<!--	<div class="img-container">
 		<figure>
 		    <img width=50% src="https://n8upham.github.io/images/IMG20221209165434-Dec2022.jpg" >
 			<figcaption>View from the south slope of Mt. Lemmon, Santa Catalina Mountains (about 2 hrs from ASU's Tempe campus).</figcaption>
@@ -39,6 +74,19 @@ title: join us
 			<figcaption>Team on our Dec 2022 trip sampling rodents in the Santa Catalina Mountains.</figcaption>
 		</figure>
 	</div>
+-->
+
+	<div class="container">
+		<div class="image">
+			<img src="https://n8upham.github.io/images/IMG20221209165434-Dec2022.jpg" alt="First Image" style="width:100%;">
+			<div class="caption">View from the south slope of Mt. Lemmon, Santa Catalina Mountains (about 2 hrs from ASU's Tempe campus).</div>
+		</div>
+		<div class="image">
+			<img src="https://n8upham.github.io/images/IMG_2664-Dec2022-group.jpg" alt="Second Image" style="width:100%;">
+			<div class="caption">Team on our Dec 2022 trip sampling rodents in the Santa Catalina Mountains.</div>
+		</div>
+	</div>
+
 
 <p></p>
 
