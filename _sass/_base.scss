@@ -37,6 +37,15 @@ img.with-text {
 	text-align: left;
 }
 
+img.with-text-smaller { 
+	float: left; 
+	max-width: 15%; 
+	height: auto; 
+	margin: 0 0 10px 10px; 
+	padding: 10px; 
+	text-align: left;
+}
+
 .clearfix:after {   content: " ";    visibility: hidden;   display: block;   height: 0;   clear: both; } 
 
 
