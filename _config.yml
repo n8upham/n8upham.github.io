@@ -6,7 +6,7 @@ author: n8upham
 keywords: phylogenetics, evolution, biogeography, mammals, rodents, macroevolution, macroecology, sustainability, conservation, teaching, mentorship
 description: Web pages describing NSU's academic interests and research
 
-baseurl: https://n8u.org
+#baseurl: https://n8u.org
 url: https://n8u.org
 
 header: yes
@@ -26,7 +26,7 @@ kramdown:
 
 destination: _site
 
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-feed
 
