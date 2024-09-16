@@ -2,6 +2,16 @@
 layout: default
 title: research
 ---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Expandable Lists</title>
+    <link rel="stylesheet" href="/css/main.scss">
+</head>
+
+<body>
 
 <article class="row post-content">
 
@@ -15,107 +25,203 @@ title: research
 </p><p>
 Our integrative <b>specimen-based research</b> unites organismal, genomic, computational, and synthetic approaches to study eco-evolutionary processes. Why specimens? Well, preserved natural history specimens (including frozen tissues, skins, skeletons, endo-/ecto-parasites, blood, feces, and fluid-preserved whole organisms) are nothing less than the physical basis for <i>our collective knowledge of Earth's biodiversity</i>. Every data point in public databases like GBIF or GenBank comes from some organism <span>&#8212;</span> however, only the fraction of observations that are preserved as specimens are available for future workers to gather now-unimagined data. Our lab contributes to growing this 300-year record of the natural world while using it to query the processes under which biodiversity was generated.
 </p>
-</h3>
-
 <tr><td><img src="https://n8upham.github.io/images/Fig1new_jobs2021_overview_krat_text.jpg" width="1000px" style="padding-bottom: 20px; padding-top: 20px;"/></td></tr>
 <p></p>
 
-<h2><strong>Types of questions we ask</h2></strong>
+<p>
+<b>Projects at global to local scales.</b> We engage in a range of interdependent activities to investigate the evolution of species interactions in wild mammals, including fieldwork, biodiversity genomics, phylogenetics, and large-scale data integration (see below; green arrows highlight native Arizona species; silhouettes from phylopic.org or open fonts).
+</p>
+</h3>
+
+<tr><td><img src="/images/Fig_mira2024_global-local_v3_phyloMap_webEdit.jpg" width="1000px" style="padding-bottom: 20px; padding-top: 20px;"/></td></tr>
+
+
+<h2><strong>Types of questions we ask</strong> [and some related projects]</h2>
 
 <p>
-<h3><b><i>1. What are the species in a clade / region / community?</i> (taxonomy and phylogenetics)</b></h3> 
+<h3><b><i>1. What are the species in a clade or region, and how do they interact?</i> (taxonomy and biodiversity data)</b></h3> 
 </p><p>
-Species are at the core of all biodiversity science <span>&#8212;</span> circumscribing which species are present is the baseline for studying patterns of  ancestor-to-descendent relationship among those species, and, in turn, the historical processes that produced those divergences. Species names are just the beginning: the meaning of names varies widely depending on which data are considered by which authors, so careful data synthesis is often needed. In our lab, we do both <i>species delimitation</i> at a local-to-regional level (e.g., analyses of gene flow, phylogeography) and <i>species synthesis</i> globally (e.g., curating data on genetic relationships, geographic ranges, ecological traits, and their taxonomic history).
+Species are at the core of all biodiversity science <span>&#8212;</span> circumscribing which species are present is the baseline for studying patterns of  ancestor-to-descendent relationship among those species, and, in turn, the historical processes that produced those divergences. Species names are just the beginning: the meaning of names varies widely depending on which data are considered by which authors, so careful data synthesis is often needed. In our lab, we do both <i>species delimitation</i> at a local-to-regional level (e.g., analyses of gene flow, phylogeography) and <i>species synthesis</i> globally (e.g., curating data on genetic relationships, geographic ranges, ecological traits, and their taxonomic history). This includes recording known observations of <i>species interactions</i>, including host-virus data and the evidence of that interaction. Doing this work requires improving upon the <a href="http://vertlife.org/data/mammals/">mammal tree of life</a>, including the development of more sophisticated tools for updating the species name labels for the millions of primary-source observations in global databases (e.g., GBIF, GenBank). It also requires new tools for mining interaction data from published literature, which was the focus of our <a href="https://reporter.nih.gov/search/jHonNExiyEulTWBDs1zc-Q/project-details/10289637">2021-2023 NIH R21 grant</a>.	
+</p>
 
-<h3>PROJECTS</h3>
-<ul>
-	<li><b>Leadership of the <a href="https://www.mammaldiversity.org/">Mammal Diversity Database (MDD)</a></b>: In alliance with the American Society of Mammalogists, we are keeping track of species- and higher-level taxonomic changes for ~6,500 currently recognized species. 
+<div class="expandable-list">
+<button class="expandable-button">Projects for Q1 (click to expand)</button>
+<ul class="expandable-content">
+
+	<li><b>Leadership of the <a href="https://www.mammaldiversity.org/">Mammal Diversity Database (MDD)</a></b>: In alliance with the American Society of Mammalogists, we are keeping track of species- and higher-level taxonomic changes for ~6,700 currently recognized species. 
 		<ul>
-			<li>Mammal taxonomy versions <span>&#8212;</span> <a href="https://doi.org/10.5281/zenodo.7394529">2023.</a> MDD v1.11 [Data set]. Zenodo. | <a href="https://doi.org/10.1093/jmammal/gyx147">2018.</a> Journal of Mammalogy. 99: 1-14.
+			<li>Mammal taxonomy versions <span>&#8212;</span> <a href="https://doi.org/10.5281/zenodo.12738010">2024.</a> MDD v1.13 [Data set]. <i>Zenodo</i>. | <a href="https://doi.org/10.1093/jmammal/gyx147">2018.</a> <i>Journal of Mammalogy</i>.
+			</li>
+			<li>Taxonomic curation and data stewardship <span>&#8212;</span> Range maps: <a href="https://doi.org/10.1111/jbi.14330">2022.</a> <i>Journal of Biogeography</i>. | <a href="https://cran.r-project.org/web/packages/mddmaps/index.html">mddmaps R Package.</a> <i>CRAN</i>. <span>&#8212;</span> Idea abstracts <span>&#8212;</span> <a href="https://doi.org/10.3897/biss.6.93670">2022.</a> <i>BISS</i>. | <a href="https://doi.org/10.3897/biss.5.75587">2021.</a> <i>BISS</i>. | <a href="https://doi.org/10.3897/biss.4.59006">2020.</a> <i>BISS</i>.
 			</li>
 		</ul>
 	</li>
-	<li><b>Gene flow in rodents of desert and montane habitats in North America</b>: Initial studies in the Great Basin Desert when I was an undergraduate student(!) have now given rise to our lab's current sampling of Sonoran Desert habitat islands.
+
+	<li><b>Host-symbiont interactions.</b> Which mammal species have which viral, bacterial, and fungal symbionts? How are pathogens shared among species, and how do pathogen networks relate to risks of wildlife disease spillover? We are studying these processes at both global scales across mammals and more local mechanistic scales in Arizona.
 		<ul>
-		 	<li>Small mammals in the Santa Catalina Mountains, Arizona<span>&#8212;</span> <a href="https://mammalmeetings.org/program/symposia/">2022.</a> Symposium co-organizer at the American Society of Mammalogists, 100th Meeting; Tucson, AZ.
+			<li>Mammal-virus data curation <span>&#8212;</span> Perspectives: <a href="https://doi.org/10.1126/science.add2209">2021.</a> <i>Lancet Planetary Health</i>. | <a href="https://doi.org/10.1007/s40656-021-00366-x">2021.</a> <i>History & Philosophy of the Life Sciences</i>. | <a href="https://doi.org/10.1093/biosci/biaa064">2020.</a> <i>BioScience</i>.
+			</li>
+			<li>Viral discovery collaborations <span>&#8212;</span> <a href="https://doi.org/10.1016/j.virol.2023.05.006">2023b.</a> <i>Virology</i>. | <a href="https://doi.org/10.1016/j.virol.2023.02.004">2023a.</a> <i>Virology</i>. | <a href="https://doi.org/10.1007/s00705-022-05574-9">2022.</a> <i>Archives of Virology</i>.
+			</li>			
+		</ul>
+	</li>
+	<li><b>Madrean Sky Islands and Phoenix desert remnants.</b> We are studying gene flow and pathogen sharing within these Arizona habitat-island systems <span>&#8212;</span> What are the patterns of genetic and ecological exchange? Does gene flow (vertical transmission) predict pathogen sharing to greater extent than current environment (horizontal transmission)? Among island rodent gene flow and viral sharing are our initial focus, but with parallel projects on gut microbe and lung fungal communities.
+		<ul>
+			<li>Rodent-virus interactions in the Santa Catalina Mountains <span>&#8212;</span> Preliminary projects summarized in <a href="/images/Upham_AllScientists_CAP-LTER-2024_final.pdf">2024 CAP LTER poster.</a>
+			</li>	
+		</ul>
+	</li>
+</ul>
+</div>
+
+<tr><td><img src="/images/Fig_skyIslands_rodentViruses_schematic.png" width="1000px" style="padding-bottom: 20px; padding-top: 20px;"/></td></tr>
+<br><p></p>
+
+<tr><td><img src="/images/Fig2_batFig_policyForums_v9_clip-all2.png" width="1000px" style="padding-bottom: 20px; padding-top: 20px;"/></td></tr>
+
+
+<p></p>
+<h3><b><i>2. How fast are lineages diversifying?</i> (phylogenetic rates and gene flow)</b></h3> 
+</p><p>
+Estimating the timing and rates of past evolutionary events allows for testing which concurrent events or processes may have caused rates to vary. <b>Fossils</b> are the primary means by which we anchor the relative divergence times (estimated from  homologous genetic or morphological changes) into absolute time of years. Mammals, and especially rodents, have well-studied fossil records that allow us to reliably root our genomic analyses in the timescale of earth-history events. The dual importance of fossil and molecular insights is increasingly recognized; extant-only phylogenies cannot tell us everything we want to know about the past, but they can tell us about processes near the present day (often moreso than fossils). Our work has shown that while fossil rate signatures are absent from older lineages of the extant tree, lineages younger than 10-million years (Ma) are unbiased. Thus, there is considerable promise in continuing to integrate fossil, molecular, and ecological trait data (e.g., proxies of body size, feeding mode, or vagility) into studies of eco-evolutionary dynamics. We are investigating how rates of speciation, extinction, and trait evolution vary relative to their <b>population-level covariates of gene flow or isolation</b> to better understand these processes. 
+
+</p>
+
+<div class="expandable-list">
+<button class="expandable-button">Projects for Q2 (click to expand)</button>
+<ul class="expandable-content">
+
+	<li><b>Mammal macroevolutionary rates</b>: The species-level mammal tree that I built during my postdoc used the backbone-and-patch approach of propagating uncertainty in divergence times and topologies across a credible set of trees. The resulting tip speciation rates have opened doors for analyses of rate variation relative to the fossil record, ecological causes of that rate variation, and related projects.
+		<ul>
+			<li>Mammal tree of life <span>&#8212;</span> <a href="https://doi.org/10.1371/journal.pbio.3000494">2019.</a> <i>PLoS Biology</i>. | <a href="https://github.com/n8upham/MamPhy_v1">Github repo</a> | <a href="https://doi.org/10.5061/dryad.tb03d03">Dryad repo</a> | <a href="https://vertlife.org/data/mammals/">Vertlife website</a> | <a href="http://verlife.org/phylosubsets">Phylosubsetting tool</a>
+			</li>
+			<li>Macroevolutionary rate analyses on the mammal tree <span>&#8212;</span> <a href="https://doi.org/10.1016/j.cub.2021.07.012">2021.</a> <i>Current Biology</i>. | <a href="https://www.biorxiv.org/content/10.1101/504803v5">preprint.</a> <i>bioRxiv [Evolution]</i>. 
+			</li>			
+			<li>Tetrapod diversification and traits <span>&#8212;</span> <a href="https://doi.org/10.1111/ele.13868">2021.</a> <i>Ecology Letters</i>. | <a href="https://doi.org/10.1111/cobi.13852">2022.</a> <i>Conservation Biology</i>. | <a href="https://doi.org/10.1371/journal.pbio.3002658">2024.</a> <i>PLOS Biology</i>. 
+			</li>			
+		</ul>
+	</li>
+	<li><b>Fossil and living bat diversification</b>: What can a full view of bat fossil diversity through time tell us about their current biology? Collaborations with Matt Jones (ASU SOLS) and Justin Baez (now PhD student at UChicago) have focused on curating bat fossil occurrences globally to analyze the abiotic and biotic causes of speciation- and extinction-rate variation.
+		<ul>
+			<li>Macroevolutionary rates through time <span>&#8212;</span> <a href="/images/JustinBaez_SVP_ColbertsPosterPrizeSumbission.pdf">2023.</a> <i>Poster at SVP</i> (in prep manuscript).  
+			</li>	
+		 </ul>
+	</li>
+
+	<li><b>Gene flow in habitat islands of western North America</b>: Initial studies in the Great Basin Desert when I was an undergraduate have given rise to our lab's current sampling of Sonoran Desert habitats.
+		<ul>
+		 	<li>Kangaroo mouse phylogeography (sand dune islands) <span>&#8212;</span> <a href="https://dx.doi.org/10.1007/s10914-012-9193-2">2012.</a> <i>Journal of Mammalian Evolution</i>. | <a href="https://dx.doi.org/10.1111/j.1365-2699.2010.02472.x">2011.</a> <i>Journal of Biogeography</i>. | <a href="https://dx.doi.org/10.1111/j.1365-2699.2008.01942.x">2008.</a> <i>Journal of Biogeography</i>. 
 		 	</li>
-		 	<li>Kangaroo mouse phylogeography <span>&#8212;</span> <a href="https://dx.doi.org/10.1007/s10914-012-9193-2">2012.</a> Journal of Mammalian Evolution 20: 129-146. | <a href="https://dx.doi.org/10.1111/j.1365-2699.2010.02472.x">2011.</a> Journal of Biogeography 38: 1077-1097. | <a href="https://dx.doi.org/10.1111/j.1365-2699.2008.01942.x">2008.</a> Journal of Biogeography 35: 2102-2118. 
+		 	<li>Rodent gene flow across the Madrean Sky Islands (montane forests) and Phoenix Metro area (urban desert remnants) <span>&#8212;</span> <a href="/images/Upham_AllScientists_CAP-LTER-2024_final.pdf">2024.</a> Poster at the CAP-LTER All Scientists Meeting. 
 		 	</li>
 		 </ul>
 	</li>
-	<li><b>Living and extinct island endemic mammals</b>: Recent extinctions of mammals are more extensive in the Caribbean archipelago than anywhere globally, yet exactly how many species and their timing of last occurrences has not been well understood. I helped organize a 2015 ASM symposium and a SESYNC working group to untangle these dimensions.	
+
+
+</ul>
+</div>
+
+<tr><td><img src="/images/Fig1_PlosBiol2019_Fig2_CurrBiol2021.jpg" width="1000px" style="padding-bottom: 20px; padding-top: 20px;"/></td></tr>
+<br>
+<p></p>
+
+
+<p>
+<h3><b><i>3. By what ecological and genomic processes?</i> (comparative methods)</b></h3> 
+</p><p>
+The genomic consequences of species interactions with other organisms (biotic) or the environment (abiotic) are at the core of what our lab aims to investigate, but we recognize that doing so requires reliable answers to questions 1 and 2 above. For this reason, we move forward on all three questions jointly, using an iterative approach to advance the field in all areas. In our lab, we are focusing on two main areas currently:
+</p>
+	<ul>
+		<li><b>Mammal comparative genomics.</b> Which mammal species have sequenced genomes? And what common properties of these genomes tend to emerge among lineage with similar ecological modes? We are investigating these questions both globally and locally, especially in desert rodent lineages.
+<p></p>
+<div class="expandable-list">
+<button class="expandable-button">Projects for Q3a (click to expand)</button>
+<ul class="expandable-content">
+
+				<li>Mammalverse of genomes <span>&#8212;</span> Zoonomia perspective: <a href="https://doi.org/10.1126/science.add2209">2023.</a> <i>Science</i>. 
+				</li>
+				<li>Phylogenomic workflows <span>&#8212;</span> <a href="https://doi.org/10.1016/j.ympev.2024.108197">2024.</a> <i>Molecular Phylogenetics & Evolution</i>.
+				</li>			
+				<li>Evolution of the largest mammal genome (<i>Tympanoctomys</i> vizcacha rats) <span>&#8212;</span> <a href="https://academic.oup.com/gbe/article/9/6/1711/3954029/Evolution-of-the-Largest-Mammalian-Genome?guestAccessKey=fbcc7c6e-bebb-431c-88eb-1523a734f60e">2017.</a> <i>Genome Biology & Evolution</i>.
+				</li>			
+</ul>
+</div>
+		</li>
+	
+		<li><b>Intrinsic species-level traits.</b> How do traits like living underground, or flying, or having 12 mammae instead of 4 influence rates of gene flow or isolation, and lead to trends of speciation and extinction? We are currently studying these dynamics among global mammals, but there is ample fodder for more regional investigations.
+<p></p>
+<div class="expandable-list">
+<button class="expandable-button">Projects for Q3b (click to expand)</button>
+<ul class="expandable-content">
+
+				<li>Mammal vagility, diurnality, and latitude <span>&#8212;</span>: <a href="https://www.biorxiv.org/content/10.1101/504803v5">preprint.</a> <i>bioRxiv</i>. 
+				</li>
+				<li>Mammal reproductive traits <span>&#8212;</span> mammae number ~ litter size: <a href="https://www.biorxiv.org/content/10.1101/2020.10.08.331983v1">preprint.</a> <i>bioRxiv</i>. 
+				</li>
+				<li>Ungulate migrations <span>&#8212;</span> <a href="https://doi.org/10.1038/s41559-022-01749-4">2022.</a> <i>Nature Ecology & Evolution</i>. | <a href="">preprint.</a> <i>bioRxiv</i>.
+				</li>			
+				<li>Rodent trait evolution <span>&#8212;</span> Tail length: <a href="https://doi.org/10.1111/geb.13198">2020.</a> <i>Global Ecology and Biogeography</i>. | Biogeographic endemism: <a href="https://doi.org/10.1111/ecog.04102">2019.</a> <i>Ecography</i>. | <a href="http://www.sciencedirect.com/science/article/pii/S1055790312000371">2012.</a> <i>Molecular Phylogenetics & Evolution</i>.
+				</li>		
+</ul>
+</div>
+		</li>
+	</ul>
+
+
+<p>
+<h3><b><i>Other projects <span>&#8212;</span> biodiversity data liberation, island extinctions</i> </b></h3> 
+</p>
+<p>
+Understanding the Earth's biodiversity is more important than ever. Yet sharing basic knowledge about biodiversity is currently far too difficult, representing a key roadblock to scientific progress and informed policymaking. The published research and observations of scientists worldwide – spanning, from species distributions to traits and interactions – are too often locked in disconnected and inaccessible literature. Opening up what is known about biodiversity from publications within a network of connected, curated, and digitally accessible knowledge bases is therefore a fundamental challenge for the global research and policy communities to address.    
+</p><p>
+Mammal extinctions have been greater in the Caribbean archipelago than anywhere globally, yet exactly how many species and their timing of last occurrences has not been well understood. I helped organize a 2015 ASM symposium and a 2019-2021 SESYNC working group to untangle these dimensions, including in other island systems.
+</p>
+
+<div class="expandable-list">
+<button class="expandable-button">Other Projects (click to expand)</button>
+<ul class="expandable-content">
+
+	<li><b>Liberation of global biodiversity data from publications</b>: 
 		<ul>
-			<li>All Caribbean mammals <span>&#8212;</span> <a href="https://www.annualreviews.org/doi/abs/10.1146/annurev-ecolsys-110316-022754">2017.</a> Annual Review of Ecology, Evolution, and Systematics. 48: 301-327. | <a href="https://academic.oup.com/jmammal/article/98/4/913/4057156/Past-and-present-of-insular-Caribbean-mammals?guestAccessKey=515a4cc9-cbd9-4305-92ec-c719ff13d1bd">2017.</a> Journal of Mammalogy 98: 913-917.
+			<li>Perspectives  <span>&#8212;</span> The Disentis Roadmap (forthcoming) | <a href="https://doi.org/10.1126/science.add2209">2021.</a> <i>Lancet Planetary Health</i>. | <a href="https://doi.org/10.1007/s40656-021-00366-x">2021.</a> <i>History & Philosophy of the Life Sciences</i>. | <a href="https://doi.org/10.1093/biosci/biaa064">2020.</a> <i>BioScience</i>.
 			</li>
-			<li>Cuban hutias <span>&#8212;</span> <a href="https://academic.oup.com/jmammal/article/98/4/950/4057154/Molecular-phylogeography-of-endangered-Cuban?guestAccessKey=7756323e-f8ba-4571-b422-c624ecb78338">2017.</a> Journal of Mammalogy 98: 950-963.
+		</ul>
+	</li>
+	<li><b>Living and extinct island endemic mammals</b>: 
+		<ul>
+			<li>All Caribbean mammals <span>&#8212;</span> <a href="https://www.annualreviews.org/doi/abs/10.1146/annurev-ecolsys-110316-022754">2017.</a> <i>Annual Review of Ecology, Evolution, and Systematics</i>. | <a href="https://academic.oup.com/jmammal/article/98/4/913/4057156/Past-and-present-of-insular-Caribbean-mammals?guestAccessKey=515a4cc9-cbd9-4305-92ec-c719ff13d1bd">2017.</a> <i>Journal of Mammalogy</i>. | <a href="https://doi.org/10.1098/rspb.2020.2905">2021.</a> <i>Proceedings B</i>. 
 			</li>
-			<li>Dominican Republic bats <span>&#8212;</span> <a href="https://academic.oup.com/jmammal/article/98/4/986/4057126/Phylogeography-of-Dominican-Republic-bats-and?guestAccessKey=91da11b3-84fe-4b23-a6a2-f90cd18c7514">2017.</a> Journal of Mammalogy 98: 986-993. 
+			<li>Cuban hutias <span>&#8212;</span> <a href="https://academic.oup.com/jmammal/article/98/4/950/4057154/Molecular-phylogeography-of-endangered-Cuban?guestAccessKey=7756323e-f8ba-4571-b422-c624ecb78338">2017.</a> <i>Journal of Mammalogy</i>. <span>&#8212;</span> Dominican Republic bats <span>&#8212;</span> <a href="https://academic.oup.com/jmammal/article/98/4/986/4057126/Phylogeography-of-Dominican-Republic-bats-and?guestAccessKey=91da11b3-84fe-4b23-a6a2-f90cd18c7514">2017.</a> <i>Journal of Mammalogy</i>.
+			</li>
+			<li>Madagascar mammals <span>&#8212;</span> <a href="https://doi.org/10.1038/s41467-022-35215-3">2023.</a> <i>Nature Communications</i>. 
 			</li>
 		</ul>
 	</li>
 </ul>
 
-<b>[UNDER CONSTRUCTION BELOW, sorry]</b>
-	
-<p>
-<h3><b><i>2. How fast are lineages evolving?</i> (phylogenetic rates)</b></h3> 
-</p><p>
+<script src="/js/script.js"></script>
+</body>
+
+
+<tr><td><img src="/images/Fig1_policyForums_specific_v4_toPublish.png" width="1000px" style="padding-bottom: 20px; padding-top: 20px;"/></td></tr>
+<br><p></p>
+
+<tr><td><img src="/images/Upham2017_JMamm_Fig1.png" width="1000px" style="padding-bottom: 20px; padding-top: 20px;"/></td></tr>
+<br><p></p>
+
+
+
+
 <!--
-Estimating the timing and rates of past evolutionary events allows for then querying which concurrent events or processes have caused apparent rate anomalies. <i>Fossils</i> are the primary means by which we anchor the relative divergence times estimated from  homologous DNA substitutions or morphological changes. Mammals, and especially rodents, have well-studied fossil records that allow us to reliably root our genomic analyses in the absolute timescale of earth-history events. In our lab, we commonly investigate rates of speciation, extinction, and trait evolution and their population-level components of gene flow or isolation that impact these rates.
-
-
-It also includes improving upon the <a href="http://vertlife.org/data/mammals/">mammal tree of life</a>, including the development of more sophisticated tools for updating the species name labels for the millions of primary-source observations in global databases (e.g., GBIF, GenBank).
-
-
-<b>Fossils</b> play a key role in this conception of phylogenetic ecology because they often represent extinct lineages, the absence of which in extant-only phylogenies tends to bias inferences of trait or lineage evolution. 
-</p>
-<p>
-The dual importance of fossil and molecular insights is increasingly recognized; extant-only phylogenies cannot tell us everything we want to know about the past, but they can tell us about processes near the present day (often moreso than fossils). My recent work on the mammal tree of life has helped demonstrate this, showing that while fossil rate signatures are absent from older lineages of the extant tree, lineages younger than 10-million years (Ma) are unbiased (<a href="https://doi.org/10.1371/journal.pbio.3000494"><i>PLoS Biology</i> 2019</a>, <a href="https://doi.org/10.1016/j.cub.2021.07.012"><i>Current Biology</i> 2021</a>). Thus, integrating detailed molecular and ecological data from extant taxa relative to fossils and their preserved traits (e.g., proxies of body size, feeding mode, or dispersal ability) is the primary strategy of our lab for investigating eco-evolutionary questions.
-</p>
-
--->
-
-<p>
-<h3><b><i>3. By what ecological processes?</i> (comparative methods)</b></h3> 
-</p><p>
-<!--
-Species interactions with other organisms (biotic) or the environment (abiotic) are at the core of what our lab aims to investigate, but we recognize that doing so requires reliable answers to questions 1 and 2 above. For this reason, we move forward on all three questions jointly, using an iterative approach to advance the field in all areas. In our lab, we are focusing on two main areas currently:
-	<ul>
-		<li><i>Host-pathogen dynamics.</i> Which mammal species have which viral, bacterial, and fungal symbionts? How are pathogens shared among species, and how do pathogen networks relate to risks of wildlife spillover to humans? We are studying these processes at both local scales in Arizona and at synthetic scales across clades of global mammals.
-		</li>
-		<li><i>Intrinsic species-level traits.</i> How do traits like living underground, or flying, or having 12 mammae instead of 4 influence rates of gene flow or isolation and ultimately trends of speciation and extinction? We are currently studying these dynamics among global mammals, but there is ample fodder for more regional investigations.
-		</li>
-	</ul>
-
-</p>
-
--->
-
-
-
-<p>
-The group is currently focusing on 3 main areas of research:
-</p>
-<p>
-1. <b>Taxonomic and phylogenetic stewardship</b> of global mammals. This work includes leadership of the <a href="https://www.mammaldiversity.org/">Mammal Diversity Database</a> in alliance with the American Society of Mammalogists for keeping track of species- and higher-level taxonomic changes for ~6,500 currently recognized species. It also includes improving upon the <a href="http://vertlife.org/data/mammals/">mammal tree of life</a>, including the development of more sophisticated tools for updating the species name labels for the millions of primary-source observations in global databases (e.g., GBIF, GenBank).
-</p><p>
-
-Taxonomy is generally viewed as external to ecology, a fixed framework that is known without error rather than a variable—the taxonomic variable—that needs tuning to understand its impact on inferences. Since taxonomy is a human-imposed framework rather than someting innate, we need to quantify its impact on our knowledge. When the stakes are high–e.g., modeling risks of extinction or viral spillover–we need to leverage
-</p>
-<tr><td><img src="https://n8upham.github.io/images/Fig1_NDexp_TopoCons_24Oct2018.jpg" width="1000px" style="padding-bottom: 20px; padding-top: 20px;"/></td></tr>
-<br>
-<p></p>
 <p>
 2. <b>Digitally connecting ecological data</b> from disparate publications, toward building a comprehensive knowledge graph for mammal host-pathogen interactions. This work aims to connect the underlying evidence in support of given ecological interactions with the interaction data itself. This evidence extends from the taxonomic (e.g., voucher specimens of the species in question) to the methodological (e.g., antibodies, gene fragments, or live pathogen recovered in the host animal), with large impact on the resulting confidence of modeling efforts using those data. We have published an initial perspective (<a href="https://doi.org/10.1016/S2542-5196(21)00196-0"><i>The Lancet Planetary Health</i> 2021</a>) and have an <a href="https://reporter.nih.gov/search/jHonNExiyEulTWBDs1zc-Q/project-details/10289637">NIH-funded R21</a> to develop this work further.
 </p>
-<tr><td><img src="https://n8upham.github.io/images/Fig1_policyForums_specific_v4_toPublish.png" width="1000px" style="padding-bottom: 20px; padding-top: 20px;"/></td></tr>
-<br>
-<p></p>
+
 <p>
 3. <b>Querying how species traits influence both gene flow and pathogen sharing</b>, focusing on clades of Nearctic and Neotropical rodents. Using data collected in the field (deserts of the US Southwest and Argentina), in museum collections (modern and fossil specimens), and in the lab (population genomics), this work seeks to understand the impact species dispersal ability (=vagility) on ecological interactions. We are studying the trait correlates of vagility (e.g., limb morphology, physiology, and home range allometry) to investigate their dual influences upon historical patterns of gene flow and modern networks of pathogen sharing. This work was inspired by initial tests on the mammal tree (<a href="https://doi.org/10.1101/504803">bioRxiv 2020</a>) and prior work studying the largest genome of any mammal, the <i>Tympanoctomys</i> vizcacha rats of Argentina (<a href="https://academic.oup.com/gbe/article/9/6/1711/3954029/Evolution-of-the-Largest-Mammalian-Genome?guestAccessKey=fbcc7c6e-bebb-431c-88eb-1523a734f60e"><i>Genome Biology and Evolution</i> 2017).
 
-<tr><td><img src="https://n8upham.github.io/images/Fig2_batFig_policyForums_v9_clip-all2.png" width="1000px" style="padding-bottom: 20px; padding-top: 20px;"/></td></tr>
+-->
 
 
-
+</html>
 

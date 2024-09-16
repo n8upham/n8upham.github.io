@@ -24,3 +24,32 @@
 @import "foundation/components/grid";
 
 // Misc.
+
+/* Basic styling for the expandable button */
+.expandable-list {
+    position: relative;
+    display: inline-block;
+    margin-bottom: 10px; /* Add space between lists */
+}
+
+.expandable-button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.expandable-button:hover {
+    background-color: #45a049;
+}
+
+/* Style for the expandable content (list) */
+.expandable-content {
+    list-style-type: disc; /* Show bullet points */
+    padding: 5;
+    margin: 5;
+    display: none; /* Hidden by default */
+}
+
