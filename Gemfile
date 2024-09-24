@@ -6,7 +6,7 @@ require 'open-uri'
 gem 'github-pages'#, versions['github-pages']
 
 gem 'json'#, '=1.8.6'
-gem 'webrick'
+gem 'webrick', '>1.8.1'
 gem 'jekyll'#, '=3.10.0'	#Needed since this is a theme for Jekyll
 gem 'jekyll-sitemap'#, '=1.4.0'
 gem 'jekyll-feed'#, '=0.17.0'
