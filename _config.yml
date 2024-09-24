@@ -1,10 +1,10 @@
 # Site settings
-name: Upham web pages   
+name: Upham Lab webpages   
 email: nathan.upham@asu.edu
 author: n8upham
 
 keywords: phylogenetics, evolution, biogeography, mammals, rodents, macroevolution, macroecology, sustainability, conservation, teaching, mentorship
-description: Web pages describing NSU's academic interests and research
+description: Upham Lab of Mammal Phylogenetic Ecology
 
 #baseurl: https://n8u.org
 url: https://n8u.org
